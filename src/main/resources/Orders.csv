@@ -1,0 +1,1008 @@
+orderId,date,quantity,sales,mode,profit,unitPrice,customerName,customerSegment,productCategory
+3,10-13-2010,6,261.54,Regular Air,-213.25,38.94,Muhammed MacIntyre,Small Business,Office Supplies
+6,02-20-2012,2,6.93,Regular Air,-4.64,2.08,Ruben Dartt,Corporate,Office Supplies
+32,07-15-2011,26,2808.08,Regular Air,1054.82,107.53,Liz Pelletier,Corporate,Furniture
+32,07-15-2011,24,1761.4,Delivery Truck,-1748.56,70.89,Liz Pelletier,Corporate,Furniture
+32,07-15-2011,23,160.2335,Regular Air,-85.129,7.99,Liz Pelletier,Corporate,Technology
+32,07-15-2011,15,140.56,Regular Air,-128.38,8.46,Liz Pelletier,Corporate,Technology
+35,10-22-2011,30,288.56,Regular Air,60.72,9.11,Julie Creighton,Corporate,Office Supplies
+35,10-22-2011,14,1892.848,Regular Air,48.987,155.99,Julie Creighton,Corporate,Technology
+36,11-02-2011,46,2484.7455,Regular Air,657.477,65.99,Sample Company A,Home Office,Technology
+65,03-17-2011,32,3812.73,Regular Air,1470.3,115.79,Tamara Dahlen,Corporate,Technology
+32,07-15-2008,26,,Regular Air,,107.53,Liz Pelletier,Corporate,Furniture
+32,07-15-2008,24,,Delivery Truck,,70.89,Liz Pelletier,Corporate,Furniture
+32,07-15-2008,23,,Regular Air,,7.99,Liz Pelletier,Corporate,Technology
+32,07-15-2008,15,,Regular Air,,8.46,Liz Pelletier,Corporate,Technology
+35,10-22-2008,30,,Regular Air,,9.11,Julie Creighton,Corporate,Office Supplies
+35,10-22-2008,14,,Regular Air,,155.99,Julie Creighton,Corporate,Technology
+36,10-22-2008,46,,Regular Air,,65.99,Sample Company A,Home Office,Technology
+65,10-22-2008,32,,Regular Air,,115.79,Tamara Dahlen,Corporate,Technology
+66,01-19-2009,41,108.15,Regular Air,7.57,2.88,Arthur Gainer,Consumer,Office Supplies
+69,06-03-2009,42,1186.06,Regular Air,511.69,30.93,Jonathan Doherty,Corporate,Furniture
+69,06-03-2009,28,51.53,Express Air,0.35,1.68,Jonathan Doherty,Corporate,Office Supplies
+70,12-17-2010,48,90.05,Regular Air,-107,1.86,Helen Wasserman,Home Office,Office Supplies
+70,12-17-2010,46,7804.53,Regular Air,2057.166,205.99,Helen Wasserman,Home Office,Technology
+96,04-16-2009,37,4158.1235,Regular Air,1228.887,125.99,Keith Dawkins,Home Office,Technology
+97,01-28-2010,26,75.57,Regular Air,28.24,2.89,Craig Yedwab,Consumer,Office Supplies
+129,11-18-2012,4,32.72,Regular Air,-22.59,6.48,Pauline Chand,Corporate,Office Supplies
+130,05-07-2012,3,461.89,Express Air,-309.8244,150.98,Roy Collins,Corporate,Technology
+130,05-07-2012,29,575.11,Regular Air,71.75,18.97,Roy Collins,Corporate,Office Supplies
+130,05-07-2012,23,236.46,Regular Air,-134.31,9.71,Roy Collins,Corporate,Office Supplies
+132,06-10-2010,27,192.814,Regular Air,-86.196,7.99,Emily Phan,Consumer,Technology
+132,06-10-2010,30,4011.65,Delivery Truck,-603.8,130.98,Emily Phan,Consumer,Furniture
+134,04-30-2012,11,1132.6,Regular Air,-310.21,95.99,Michael Dominguez,Home Office,Office Supplies
+135,10-20-2011,25,125.85,Regular Air,-89.25,4.98,Anne Pryor,Consumer,Technology
+166,09-11-2011,10,567.936,Express Air,-126.093,65.99,Valerie Takahito,Consumer,Technology
+193,08-07-2010,14,174.89,Regular Air,-37.04,12.44,Justin Hirsh,Consumer,Office Supplies
+194,04-04-2012,49,329.03,Regular Air,-197.25,7.28,Maria Zettner,Corporate,Furniture
+194,04-04-2012,6,20.19,Regular Air,-13.44,3.14,Maria Zettner,Corporate,Office Supplies
+195,12-27-2010,34,1315.74,Regular Air,260.87,36.55,Brad Thomas,Home Office,Office Supplies
+197,04-06-2011,23,310.52,Regular Air,33.22,12.98,Penelope Sewall,Home Office,Office Supplies
+224,06-17-2009,25,184.86,Regular Air,-33.95,7.38,Bart Folk,Corporate,Furniture
+224,06-17-2009,44,267.85,Regular Air,-65.43,5.98,Bart Folk,Corporate,Office Supplies
+224,06-17-2009,33,528.5,Regular Air,-149.92,15.42,Bart Folk,Corporate,Office Supplies
+225,05-24-2011,24,126.58,Regular Air,18.27,5.58,Karen Ferguson,Home Office,Office Supplies
+225,05-24-2011,1,23.7,Regular Air,-8.97,19.84,Karen Ferguson,Home Office,Office Supplies
+229,12-28-2010,43,586.11,Regular Air,98.44,12.64,Matt Abelman,Consumer,Furniture
+229,12-28-2010,24,599.1,Regular Air,3.8165,24.92,Peter Fuller,Consumer,Office Supplies
+230,10-26-2010,47,2029.75,Regular Air,320.37,43.98,Erin Creighton,Corporate,Office Supplies
+230,10-26-2010,11,1118.396,Regular Air,-212.333,125.99,Erin Creighton,Corporate,Technology
+231,09-28-2009,2,689.74,Regular Air,-490.84,363.25,Sean Braxton,Small Business,Office Supplies
+258,12-28-2010,21,154.35,Regular Air,-91.14,6.48,Liz Willingham,Home Office,Office Supplies
+258,12-28-2010,7,201.36,Delivery Truck,-284.4,20.98,Liz Willingham,Home Office,Office Supplies
+258,12-28-2010,33,216.77,Regular Air,-55.108,6.54,Liz Willingham,Home Office,Office Supplies
+261,06-28-2010,47,5677.609,Regular Air,1680.786,140.99,Sonia Sunley,Small Business,Technology
+263,05-16-2009,25,136.77,Regular Air,-136.252,5.4,Paul Lucas,Corporate,Office Supplies
+290,01-05-2009,24,188.73,Regular Air,-32.48,7.64,Dorris Love,Home Office,Office Supplies
+292,01-12-2012,43,412.62,Regular Air,175.54,9.9,Valerie Takahito,Consumer,Office Supplies
+293,10-01-2012,49,10123.02,Delivery Truck,457.81,208.16,Barry French,Consumer,Office Supplies
+293,10-01-2012,27,244.57,Regular Air,46.7075,8.69,Barry French,Consumer,Office Supplies
+294,07-15-2010,35,6375.28,Regular Air,489.02,193.17,Sanjit Chand,Home Office,Office Supplies
+322,03-18-2012,20,2634.8555,Regular Air,257.76,155.99,Giulietta Weimer,Corporate,Technology
+322,03-18-2012,46,281,Regular Air,-291.59,6.48,Giulietta Weimer,Corporate,Office Supplies
+323,03-25-2009,20,108.09,Regular Air,25.76,5.68,Dario Medina,Small Business,Office Supplies
+323,03-25-2009,2,55.34,Regular Air,-31.24,22.84,Dario Medina,Small Business,Office Supplies
+324,03-19-2012,25,3872.634,Regular Air,667.332,179.99,Frank Gastineau,Small Business,Technology
+325,10-16-2010,9,884.1275,Regular Air,-178.706,115.99,Craig Yedwab,Corporate,Technology
+326,06-03-2011,34,218.27,Regular Air,-44.137,5.99,Michelle Tran,Consumer,Office Supplies
+326,06-03-2011,17,100.95,Regular Air,-21.3,5.81,Michelle Tran,Consumer,Office Supplies
+353,12-30-2010,21,46.94,Regular Air,3.88,2.21,Dean Percer,Home Office,Office Supplies
+355,06-13-2009,16,1239.6315,Regular Air,-172.546,85.99,Henry MacAllister,Small Business,Technology
+358,09-19-2010,33,1640.9,Delivery Truck,-1348.06,48.58,Ricardo Block,Corporate,Furniture
+358,09-19-2010,33,1235.87,Regular Air,269.27,39.48,Ricardo Block,Corporate,Technology
+359,12-18-2009,30,3659.66,Delivery Truck,-500.38,124.49,Cari Sayre,Corporate,Furniture
+384,03-02-2012,50,7666.04,Delivery Truck,-1820.84,146.05,Sonia Cooley,Corporate,Furniture
+386,01-24-2011,4,14.96,Regular Air,-0.0300000000000002,3.69,Tracy Poddar,Corporate,Office Supplies
+386,01-24-2011,4,15.69,Regular Air,-1.59,3.85,Tracy Poddar,Corporate,Office Supplies
+388,12-15-2012,46,517.93,Regular Air,-94.73,11.7,Jennifer Halladay,Home Office,Office Supplies
+416,09-26-2010,20,1156.6715,Express Air,88.524,65.99,Stuart Calhoun,Consumer,Technology
+417,02-05-2009,39,15260.78,Delivery Truck,8734.88,500.98,Robert Barroso,Small Business,Technology
+417,02-05-2009,3,540.41,Regular Air,-170.98,178.47,Robert Barroso,Small Business,Office Supplies
+420,10-30-2011,8,43.29,Regular Air,-20.69,4.98,Tony Sayre,Small Business,Office Supplies
+420,10-30-2011,6,41.7,Regular Air,-14.56,5.78,Tony Sayre,Small Business,Office Supplies
+448,08-20-2011,22,1162.4005,Regular Air,-284.625,65.99,Brad Thomas,Corporate,Technology
+449,07-19-2011,45,356.7,Regular Air,-48.97,7.38,Candace McMahon,Corporate,Furniture
+450,03-04-2011,29,1000.78,Express Air,109.33,34.58,Matt Collins,Consumer,Office Supplies
+450,03-04-2011,35,543.72,Regular Air,-211.13,15.7,Matt Collins,Consumer,Office Supplies
+454,12-26-2011,42,234.2,Regular Air,56.22,6.08,Darrin Martin,Small Business,Office Supplies
+481,10-07-2012,44,4509.3775,Regular Air,1426.257,115.99,Art Foster,Home Office,Technology
+483,07-10-2011,30,4965.7595,Regular Air,1198.971,195.99,Clay Rozendal,Corporate,Technology
+487,08-17-2012,19,210.4,Regular Air,-18.96,10.89,Valerie Dominguez,Corporate,Office Supplies
+512,05-19-2011,6,1309.53,Regular Air,19.18,218.08,Sam Craven,Home Office,Furniture
+512,05-19-2011,48,806.37,Express Air,-166.4,15.42,Sam Craven,Home Office,Office Supplies
+513,04-30-2011,33,5437.92,Delivery Truck,-684.57,150.89,Arthur Prichep,Home Office,Furniture
+515,08-28-2010,19,394.27,Regular Air,30.94,21.78,Carlos Soltero,Consumer,Office Supplies
+515,08-28-2010,21,146.69,Regular Air,4.43,6.64,Carlos Soltero,Consumer,Furniture
+548,09-20-2009,41,129.49,Regular Air,36.02,3.08,Sung Chung,Home Office,Office Supplies
+548,09-20-2009,29,202.95,Regular Air,-50.64,6.48,Sung Chung,Home Office,Office Supplies
+548,09-20-2009,26,2753.1925,Regular Air,510.489,125.99,Sung Chung,Home Office,Technology
+549,07-12-2012,13,70.24,Regular Air,-59.75,4.98,Ken Brennan,Consumer,Office Supplies
+549,07-12-2012,5,40.75,Regular Air,-27.57,6.48,Ken Brennan,Consumer,Office Supplies
+549,07-12-2012,30,1150.88,Express Air,-911.56,38.94,Ken Brennan,Consumer,Office Supplies
+610,08-01-2011,38,283.65,Express Air,-29.21,6.68,Joe Elijah,Home Office,Office Supplies
+611,01-26-2010,47,840.04,Regular Air,-131.27,17.7,Arthur Prichep,Home Office,Office Supplies
+612,10-20-2012,50,262.87,Regular Air,-166.29,5.28,Sheri Gordon,Corporate,Office Supplies
+612,10-20-2012,43,2531.0875,Regular Air,881.676,65.99,Sheri Gordon,Corporate,Technology
+613,06-17-2011,12,93.54,Regular Air,-54.0385,7.3,Carl Jackson,Corporate,Office Supplies
+613,06-17-2011,22,905.08,Regular Air,127.7,42.76,Carl Jackson,Corporate,Office Supplies
+614,11-30-2012,41,628.22,Regular Air,163.81,14.34,Dave Hallsten,Corporate,Furniture
+614,11-30-2012,24,3366.1,Delivery Truck,-335.317125,138.75,Dave Hallsten,Corporate,Furniture
+640,01-22-2010,39,4913.69,Delivery Truck,-1153.9,120.98,Tamara Chand,Consumer,Furniture
+640,01-22-2010,24,464.77,Regular Air,29.42,18.97,Tamara Chand,Consumer,Office Supplies
+643,03-24-2011,21,2781.82,Express Air,-695.26,138.14,Monica Federle,Corporate,Office Supplies
+644,04-30-2012,5,1679.58,Delivery Truck,-171.92,320.98,Bill Eplett,Corporate,Furniture
+645,12-02-2009,42,557.85,Regular Air,89.4455,12.95,Harold Engle,Consumer,Office Supplies
+646,11-21-2009,18,173.2,Regular Air,-10.9,9.31,Duane Huffman,Small Business,Office Supplies
+678,02-26-2010,44,228.41,Regular Air,-226.36,4.98,Dorothy Badders,Home Office,Office Supplies
+706,09-08-2011,42,75.14,Regular Air,0.82,1.76,Sarah Jordon,Consumer,Office Supplies
+710,01-01-2010,42,161.77,Regular Air,-150.374,3.58,Susan MacKendrick,Corporate,Office Supplies
+710,01-01-2010,11,447.09,Regular Air,89.03,41.32,Susan MacKendrick,Corporate,Furniture
+710,01-01-2010,29,4192.88,Delivery Truck,731.32,145.45,Susan MacKendrick,Corporate,Technology
+738,03-01-2010,7,560.51,Regular Air,32.6,80.98,Caroline Jumper,Corporate,Office Supplies
+738,03-01-2010,31,189.95,Regular Air,-56.68,6.48,Caroline Jumper,Corporate,Office Supplies
+740,07-15-2011,6,28.01,Regular Air,3.46,4.98,Thomas Boland,Corporate,Office Supplies
+769,06-01-2010,37,4261.94,Delivery Truck,4.15000000000001,115.99,Roy French,Consumer,Technology
+771,06-16-2011,18,88.84,Regular Air,-38.35,4.98,Darrin Van Huff,Home Office,Office Supplies
+772,04-16-2010,35,589.24,Regular Air,-38.35,17.52,Pamela Stobb,Consumer,Office Supplies
+772,04-16-2010,25,233.05,Regular Air,86.93,9.9,Pamela Stobb,Consumer,Office Supplies
+773,09-25-2010,38,2071.3395,Regular Air,324.927,65.99,Helen Abelman,Home Office,Technology
+774,12-03-2011,17,126.57,Regular Air,-752.13,4.48,Sibella Parks,Small Business,Office Supplies
+775,03-17-2011,35,43.57,Regular Air,-19.17,1.26,Peter McVee,Small Business,Office Supplies
+775,03-17-2011,8,31.87,Regular Air,-1.25,4.26,Peter McVee,Small Business,Office Supplies
+801,02-17-2012,20,59.85,Regular Air,-47.41,2.74,Thais Sissman,Corporate,Office Supplies
+802,01-04-2011,33,378.6,Regular Air,12.7245,11.7,Kean Nguyen,Corporate,Office Supplies
+802,01-04-2011,2,38.5,Regular Air,-52.1391,15.99,Kean Nguyen,Corporate,Technology
+805,07-04-2011,39,197.56,Regular Air,-119.86,4.97,Toby Swindell,Small Business,Furniture
+807,11-23-2010,45,196.85,Regular Air,-166.85,4.28,Neola Schneider,Home Office,Office Supplies
+807,11-23-2010,32,124.56,Regular Air,-14.33,3.95,Neola Schneider,Home Office,Office Supplies
+832,04-18-2012,7,53.46,Regular Air,-17.58,6.48,Alice McCarthy,Corporate,Office Supplies
+833,02-12-2009,1,19.32,Regular Air,-20.3205,12.53,Olvera Toch,Home Office,Office Supplies
+834,05-22-2009,15,1813.04,Delivery Truck,-164.3952,115.99,Eugene Moren,Home Office,Technology
+835,10-07-2011,18,125.16,Regular Air,-23.48,6.48,Duane Huffman,Small Business,Office Supplies
+837,06-14-2009,11,65.7,Regular Air,13.41,5.84,Sean O'Donnell,Corporate,Office Supplies
+868,06-08-2012,32,716.84,Regular Air,134.72,21.78,Carlos Daly,Home Office,Office Supplies
+868,06-08-2012,31,1474.33,Regular Air,114.46,47.98,Carlos Daly,Home Office,Technology
+870,06-19-2010,23,1661.04,Regular Air,475.54,70.97,Valerie Dominguez,Corporate,Office Supplies
+871,11-14-2011,17,104.94,Regular Air,-34.97,6.24,David Kendrick,Home Office,Furniture
+896,03-08-2010,50,1246.52,Regular Air,52.479,24.92,Edward Nazzal,Home Office,Office Supplies
+898,06-02-2010,40,676.13,Regular Air,45.39,15.98,Sanjit Jacobs,Consumer,Technology
+898,06-02-2010,26,7668.55,Delivery Truck,-715.778206,296.18,Sanjit Jacobs,Consumer,Furniture
+900,09-30-2009,29,1193.65,Regular Air,507.5775,40.98,Karen Carlisle,Home Office,Office Supplies
+902,07-26-2009,10,1925.83,Regular Air,359.83,207.48,Meg O'Connel,Corporate,Office Supplies
+928,03-01-2011,21,1222.68,Express Air,300.97,59.98,Anthony O'Donnell,Consumer,Office Supplies
+928,03-01-2011,26,390.2,Express Air,45,14.58,Anthony O'Donnell,Consumer,Furniture
+929,10-01-2012,21,227.66,Regular Air,-100.16,10.97,Luke Foster,Corporate,Technology
+929,10-01-2012,39,84.33,Regular Air,-64.29,2.08,Luke Foster,Corporate,Office Supplies
+930,12-16-2009,22,922.39,Express Air,-41.64,41.32,Phillina Ober,Small Business,Furniture
+930,12-16-2009,11,79.19,Regular Air,13.91,6.88,Phillina Ober,Small Business,Office Supplies
+933,08-04-2012,15,80.61,Regular Air,-4.715,5.28,Claudia Miner,Small Business,Office Supplies
+960,09-20-2009,46,605.97,Regular Air,-22.72,13.73,Jim Kriz,Consumer,Furniture
+962,05-05-2009,33,4064.05,Regular Air,1408.1865,122.99,Mike Vittorini,Small Business,Office Supplies
+962,05-05-2009,47,3213.87,Delivery Truck,-1069.72,68.81,Mike Vittorini,Small Business,Office Supplies
+964,05-19-2011,50,315.02,Regular Air,95.1575,5.98,Stefania Perrino,Corporate,Office Supplies
+964,05-19-2011,4,40.02,Regular Air,-1.28,9.93,Stefania Perrino,Corporate,Office Supplies
+965,05-14-2011,42,11230.25,Delivery Truck,-679.044366,280.98,Jas O'Carroll,Corporate,Furniture
+967,06-20-2012,6,90.56,Regular Air,-37.584,13.99,Maureen Gastineau,Consumer,Technology
+967,06-20-2012,42,1634.9,Regular Air,502.42,37.74,Maureen Gastineau,Consumer,Office Supplies
+967,06-20-2012,48,11278.18,Delivery Truck,1836.81,227.55,Maureen Gastineau,Consumer,Furniture
+994,04-19-2009,38,132.07,Regular Air,14,3.58,Kelly Lampkin,Corporate,Office Supplies
+995,05-30-2011,46,1815.49,Regular Air,782.91,39.89,Neola Schneider,Home Office,Furniture
+998,11-25-2009,16,248.26,Regular Air,93.8,15.74,Allen Rosenblatt,Small Business,Office Supplies
+999,09-04-2010,6,583.64,Regular Air,-179.5,95.43,Max Jones,Home Office,Office Supplies
+1027,06-02-2012,19,1406.15,Delivery Truck,-379.1,70.98,Hallie Redmond,Home Office,Furniture
+1028,01-05-2009,6,165.75,Regular Air,-28.46,28.48,Matt Collins,Consumer,Technology
+1028,01-05-2009,11,2021.147,Regular Air,-60.39,205.99,Matt Collins,Consumer,Technology
+1031,08-31-2009,34,226.1,Regular Air,-52.21,6.37,Sanjit Jacobs,Consumer,Office Supplies
+1057,02-19-2012,41,341.36,Regular Air,-52.48,8.46,Anthony Witt,Corporate,Technology
+1058,04-25-2010,3,469.438,Regular Air,-888.162,195.99,Jim Epp,Small Business,Technology
+1059,02-26-2009,22,127.33,Regular Air,5.2955,5.34,Sean O'Donnell,Corporate,Office Supplies
+1059,02-26-2009,24,990.1,Regular Air,310.216,40.98,Sean O'Donnell,Corporate,Office Supplies
+1060,02-20-2010,30,1187.55,Regular Air,532.61,37.7,Harold Dahlen,Corporate,Office Supplies
+1088,05-20-2012,13,269.02,Regular Air,-112,20.97,Muhammed Yedwab,Consumer,Technology
+1095,08-21-2011,28,142.18,Regular Air,-50.14,4.98,Ed Braxton,Consumer,Office Supplies
+1127,09-18-2011,48,5340.5,Regular Air,1215.28,110.98,Stuart Calhoun,Consumer,Furniture
+1154,02-14-2012,44,4462.23,Delivery Truck,440.72,100.98,Sylvia Foulston,Home Office,Furniture
+1154,02-14-2012,11,663.784,Regular Air,-481.041,71.37,Sylvia Foulston,Home Office,Furniture
+1154,02-14-2012,23,115.1,Regular Air,53.13,4.91,Thea Hendricks,Home Office,Office Supplies
+1154,02-14-2012,7,516.65,Express Air,57.1,70.97,Thea Hendricks,Home Office,Office Supplies
+1185,08-23-2012,7,374.78,Regular Air,20.03,55.48,Ionia McGrath,Home Office,Office Supplies
+1187,11-19-2012,14,222.91,Regular Air,20.21,15.98,Guy Armstrong,Corporate,Technology
+1189,04-08-2009,27,129.1,Regular Air,-59.82,4.42,Aaron Smayling,Small Business,Office Supplies
+1191,11-06-2011,35,3532.96,Delivery Truck,-243.60336,100.8,Karl Brown,Home Office,Furniture
+1217,04-25-2012,25,662.16,Regular Air,185.21,28.48,Sung Shariari,Corporate,Technology
+1218,06-19-2009,3,46.46,Regular Air,-25.13,14.42,Craig Carroll,Corporate,Office Supplies
+1221,04-18-2012,1,14.68,Regular Air,-13.777,8.6,Lela Donovan,Corporate,Office Supplies
+1221,04-18-2012,11,10145.14,Regular Air,3724.5725,896.99,Lela Donovan,Corporate,Office Supplies
+1221,04-18-2012,16,68.45,Regular Air,-57.8795,4.24,Lela Donovan,Corporate,Office Supplies
+1222,02-04-2010,48,257.39,Regular Air,-121.91,5.28,Nicole Brennan,Home Office,Office Supplies
+1253,01-25-2010,15,494.34,Regular Air,-30.19,31.98,Tanja Norvell,Consumer,Office Supplies
+1280,01-10-2010,40,827.27,Regular Air,-170.87,20.97,Harold Dahlen,Corporate,Technology
+1282,02-27-2012,26,892.38,Regular Air,366.48,31.78,Emily Grady,Home Office,Technology
+1282,02-27-2012,10,29.41,Regular Air,-2.06,2.78,Emily Grady,Home Office,Office Supplies
+1285,05-31-2012,27,3874.12,Delivery Truck,-305.98,130.98,Sally Matthias,Corporate,Furniture
+1285,05-31-2012,8,1452.216,Delivery Truck,-277.29,218.75,Sally Matthias,Corporate,Furniture
+1286,05-13-2010,46,234.37,Regular Air,-144.6815,5.18,Lena Creighton,Home Office,Office Supplies
+1286,05-13-2010,14,1000.3565,Regular Air,229.779,85.99,Lena Creighton,Home Office,Technology
+1287,07-04-2009,39,3908.65,Regular Air,480.57,105.29,Mitch Willingham,Corporate,Furniture
+1313,09-12-2009,34,840.07,Regular Air,-83.75,22.84,Sally Matthias,Home Office,Office Supplies
+1314,05-12-2009,4,42.58,Regular Air,-7.61,9.27,Justin Knight,Corporate,Office Supplies
+1317,05-18-2011,44,523.42,Regular Air,39.423,11.7,Janet Lee,Consumer,Office Supplies
+1317,05-18-2011,40,192.54,Regular Air,-186.73,4.98,Janet Lee,Consumer,Office Supplies
+1317,05-18-2011,29,156.7,Regular Air,-76.64,5.28,Janet Lee,Consumer,Office Supplies
+1344,04-15-2012,15,834.904,Regular Air,-11.682,65.99,Jim Radford,Corporate,Technology
+1344,04-15-2012,18,2480.9205,Regular Air,313.578,155.99,Jim Radford,Corporate,Technology
+1345,10-27-2012,24,2443.85,Delivery Truck,-120.85,100.98,Ritsa Hightower,Corporate,Furniture
+1346,06-17-2012,48,4789.89,Delivery Truck,421.15,100.98,Theone Pippenger,Corporate,Furniture
+1382,08-16-2010,5,89.335,Regular Air,-107.096,20.99,Corey Catlett,Home Office,Technology
+1382,08-16-2010,39,158.46,Regular Air,-130.663,3.98,Corey Catlett,Home Office,Office Supplies
+1382,08-16-2010,31,7180.83,Delivery Truck,487.17,220.98,Corey Catlett,Home Office,Furniture
+1383,04-26-2010,43,17129.97,Regular Air,5616.08,415.88,Frank Merwin,Consumer,Office Supplies
+1411,12-20-2009,39,5748.2,Delivery Truck,-459.86,160.98,Ed Jacobs,Small Business,Furniture
+1411,12-20-2009,47,6717.9325,Regular Air,1717.893,175.99,Ed Jacobs,Small Business,Technology
+1412,03-12-2010,13,59.03,Express Air,26.92,3.69,Carlos Soltero,Consumer,Office Supplies
+1412,03-12-2010,21,97.48,Regular Air,-5.77,4.71,Carlos Soltero,Consumer,Office Supplies
+1414,08-15-2011,44,4530.96,Delivery Truck,-993.35,105.49,Carol Darley,Small Business,Furniture
+1440,08-09-2011,41,726.22,Regular Air,52.47,17.67,Stefanie Holloman,Small Business,Furniture
+1444,12-05-2009,32,21717.36,Express Air,8249.86,699.99,Noel Staavos,Home Office,Technology
+1444,12-05-2009,13,15823.27,Delivery Truck,1759.34,1360.14,Noel Staavos,Home Office,Technology
+1444,12-05-2009,2,21.44,Regular Air,-13.67,6.48,Noel Staavos,Home Office,Office Supplies
+1444,12-05-2009,24,416.4,Regular Air,24.33,17.15,Noel Staavos,Home Office,Office Supplies
+1444,12-05-2009,25,772.24,Regular Air,181.98,30.98,Noel Staavos,Home Office,Office Supplies
+1445,01-09-2011,3,1326.09,Regular Air,-20.5505,420.98,Shahid Shariari,Corporate,Office Supplies
+1445,01-09-2011,30,339.49,Regular Air,-74.21,11.97,Shahid Shariari,Corporate,Office Supplies
+1447,10-14-2012,40,2135.9735,Regular Air,239.4,65.99,Barry Gonzalez,Consumer,Technology
+1504,08-27-2012,31,293.18,Regular Air,64.22,10.01,Maribeth Schnelling,Corporate,Technology
+1507,10-13-2010,29,4345.86,Regular Air,126.62,152.48,Harold Ryan,Home Office,Technology
+1537,02-14-2012,5,16.6,Regular Air,-20.2975,2.16,Grant Thornton,Corporate,Office Supplies
+1538,06-17-2011,15,1297.304,Regular Air,149.823,95.99,Ted Trevino,Corporate,Technology
+1539,03-09-2011,33,511.83,Regular Air,-172.8795,15.99,Carl Ludwig,Corporate,Office Supplies
+1539,03-09-2011,38,184.99,Regular Air,-144.55,4.89,Carl Ludwig,Corporate,Technology
+1540,08-04-2012,30,80.9,Regular Air,5.76,2.88,Don Miller,Home Office,Office Supplies
+1542,09-14-2010,47,2150.25,Regular Air,586.93,48.58,Linda Southworth,Consumer,Office Supplies
+1542,09-14-2010,13,448,Regular Air,27.2,35.51,Linda Southworth,Consumer,Office Supplies
+1573,12-27-2012,13,759.94,Delivery Truck,-226.45,60.89,Lena Radford,Small Business,Furniture
+1575,09-12-2011,26,133.65,Regular Air,56.28,4.98,Dave Poirier,Small Business,Office Supplies
+1575,09-12-2011,10,525.674,Regular Air,-147.015,65.99,Dave Poirier,Small Business,Technology
+1600,03-02-2010,32,303.59,Regular Air,-45.99,9.65,Liz MacKendrick,Corporate,Furniture
+1600,03-02-2010,36,191.6,Regular Air,-150.74,4.98,Liz MacKendrick,Corporate,Office Supplies
+1604,07-16-2010,47,622.82,Regular Air,128.88,12.64,Rick Wilson,Consumer,Furniture
+1637,02-07-2011,36,1225.52,Express Air,-1191.13,35.48,Aleksandra Gannaway,Corporate,Office Supplies
+1637,02-07-2011,10,1024.29,Regular Air,-95.52,99.99,Aleksandra Gannaway,Corporate,Technology
+1637,02-07-2011,47,1348.57,Regular Air,19.57,30.98,Aleksandra Gannaway,Corporate,Office Supplies
+1639,08-19-2011,24,163.14,Regular Air,-62.2,6.78,Sean Christensen,Home Office,Office Supplies
+1665,05-07-2009,26,755.6075,Regular Air,149.166,35.99,John Lucas,Corporate,Technology
+1666,10-17-2011,19,5642.18,Express Air,1996.6755,315.98,Nona Balk,Corporate,Office Supplies
+1699,12-29-2010,40,430.88,Regular Air,39,11.09,Art Ferguson,Corporate,Office Supplies
+1701,05-18-2012,49,2047.58,Regular Air,902.62,40.98,Ed Ludwig,Consumer,Technology
+1701,05-18-2012,1,56.61,Regular Air,-22.16,40.97,Ed Ludwig,Consumer,Furniture
+1702,05-06-2011,23,67.24,Regular Air,4.9,2.84,Annie Cyprus,Home Office,Office Supplies
+1761,12-23-2010,25,12028.23,Delivery Truck,-547.61,449.99,Carl Ludwig,Corporate,Technology
+1762,08-19-2009,29,857.11,Regular Air,285.2,31.78,Lisa Hazard,Home Office,Technology
+1762,08-19-2009,11,69.6,Regular Air,6.46,5.98,Lisa Hazard,Home Office,Office Supplies
+1762,08-19-2009,43,1279.505,Express Air,384.201,35.99,Lisa Hazard,Home Office,Technology
+1764,03-24-2012,7,59.99,Regular Air,-13.78,8.34,Hallie Redmond,Small Business,Office Supplies
+1767,03-13-2011,10,46.34,Regular Air,-7.76,4.71,Roger Barcio,Corporate,Office Supplies
+1792,11-08-2010,28,370.48,Regular Air,-5.45,13.48,Carlos Soltero,Consumer,Office Supplies
+1793,07-11-2012,36,233.43,Regular Air,-71.898,6.28,Joni Blumstein,Home Office,Office Supplies
+1796,11-20-2012,43,183.41,Regular Air,-125.4075,4.13,Deanra Eno,Corporate,Office Supplies
+1799,03-06-2009,10,1187.12,Delivery Truck,-127.3,113.98,Trudy Schmidt,Small Business,Furniture
+1799,03-06-2009,16,108.31,Regular Air,-52.77,6.48,Trudy Schmidt,Small Business,Office Supplies
+1824,05-04-2009,39,10656.26,Regular Air,3116.54,276.2,Becky Pak,Corporate,Furniture
+1824,05-04-2009,2,17.06,Regular Air,-5.2,6.28,Becky Pak,Corporate,Furniture
+1825,12-04-2010,22,38.26,Regular Air,-2.34,1.76,Aaron Smayling,Small Business,Office Supplies
+1826,04-15-2012,5,28.32,Regular Air,-14.35,4.98,Susan Vittorini,Corporate,Office Supplies
+1829,05-07-2009,48,133.04,Regular Air,6.732,2.78,Tom Stivers,Small Business,Office Supplies
+1831,12-01-2010,33,12586.19,Delivery Truck,619.71,370.98,Ken Brennan,Home Office,Office Supplies
+1856,03-19-2012,24,1449.3,Regular Air,-712.14,60.98,Alex Avila,Home Office,Office Supplies
+1856,03-19-2012,43,4374.6865,Regular Air,973.161,125.99,Alex Avila,Home Office,Technology
+1856,03-19-2012,44,4283.235,Regular Air,676.125,125.99,Alex Avila,Home Office,Technology
+1857,01-12-2010,37,199.76,Regular Air,20,5.58,Roy Phan,Consumer,Office Supplies
+1863,09-22-2010,26,2415.38,Delivery Truck,-1131.6,95.95,Sung Pak,Small Business,Furniture
+1888,10-30-2010,38,1264.46,Delivery Truck,-1249.39,31.76,Kean Thornton,Corporate,Furniture
+1888,10-30-2010,35,158.25,Regular Air,-114.7355,4.57,Kean Thornton,Corporate,Office Supplies
+1891,12-14-2009,3,302.36,Regular Air,290.31,107.53,Jeremy Ellison,Small Business,Furniture
+1892,03-25-2009,47,193.63,Regular Air,-152.5245,3.98,Joe Kamberova,Small Business,Office Supplies
+1892,03-25-2009,9,64.29,Regular Air,-18.85,6.48,Joe Kamberova,Small Business,Office Supplies
+1895,05-29-2009,5,41.25,Regular Air,-23.25,6.48,Mitch Willingham,Corporate,Office Supplies
+1921,01-17-2009,24,7871.91,Delivery Truck,541.47,328.14,Benjamin Venier,Small Business,Office Supplies
+1925,03-04-2012,40,909.82,Regular Air,292.49,22.98,Brian Moss,Corporate,Technology
+1925,03-04-2012,7,1874.37,Regular Air,67.84,276.2,Brian Moss,Corporate,Furniture
+1952,03-15-2009,24,7287.55,Delivery Truck,-715.778206,296.18,Alejandro Grove,Corporate,Furniture
+1953,11-29-2010,13,137.64,Regular Air,19.5925,10.91,Sam Zeldin,Small Business,Office Supplies
+1985,09-01-2009,33,15464.01,Delivery Truck,4407.44,535.64,Katherine Murray,Home Office,Technology
+1985,09-01-2009,1,11.35,Regular Air,-7.96,5.78,Katherine Murray,Home Office,Office Supplies
+1988,10-05-2011,9,122.14,Regular Air,-16.99,13.48,Paul Knutson,Corporate,Office Supplies
+1991,09-06-2012,27,3491.06,Regular Air,921.7,136.98,Barry Franz,Corporate,Furniture
+1991,09-06-2012,37,14383.83,Delivery Truck,5050.1,399.98,Barry Franz,Corporate,Technology
+2020,06-20-2010,42,213.75,Regular Air,-188.77,5.02,Sandra Glassco,Home Office,Technology
+2022,03-14-2012,45,186.44,Regular Air,-157.18,3.95,Alan Hwang,Corporate,Office Supplies
+2023,05-05-2012,4,294.89,Regular Air,-321.84,73.98,Sam Craven,Home Office,Technology
+2023,05-05-2012,50,246.57,Regular Air,-132.51,4.98,Sam Craven,Home Office,Office Supplies
+2048,11-14-2010,12,3752.61,Delivery Truck,637.93,294.62,Deanra Eno,Corporate,Office Supplies
+2048,11-14-2010,9,548.36,Express Air,78.63,60.97,Deanra Eno,Corporate,Office Supplies
+2050,06-01-2009,16,44.46,Regular Air,5.27,2.89,James Galang,Consumer,Office Supplies
+2050,06-01-2009,25,542.11,Regular Air,-14.76,22.84,James Galang,Consumer,Office Supplies
+2052,04-12-2012,23,107.93,Regular Air,-68.1375,4.13,Rob Lucas,Small Business,Office Supplies
+2053,02-06-2011,39,19342.84,Delivery Truck,5603.95,500.98,Todd Boyes,Consumer,Furniture
+2053,02-06-2011,7,771.783,Regular Air,-449.526,140.99,Todd Boyes,Consumer,Technology
+2054,06-07-2012,1,343.78,Regular Air,-246.51,363.25,Katrina Willman,Consumer,Office Supplies
+2054,06-07-2012,34,826.09,Regular Air,215.86,22.98,Katrina Willman,Consumer,Furniture
+2055,09-03-2010,7,66.41,Regular Air,-32.35,8.74,Nora Paige,Small Business,Office Supplies
+2084,03-16-2010,16,692.73,Regular Air,94.97,40.99,Andy Reiter,Corporate,Office Supplies
+2086,10-18-2009,24,1411.58,Express Air,699.31,55.98,Brian Moss,Corporate,Office Supplies
+2086,10-18-2009,38,2115.242,Regular Air,371.412,65.99,Brian Moss,Corporate,Technology
+2086,10-18-2009,9,1246.68,Regular Air,218.48,128.24,Brian Moss,Corporate,Furniture
+2144,03-28-2009,40,5945.3675,Regular Air,1585.476,175.99,Jonathan Doherty,Corporate,Technology
+2146,09-13-2012,41,6111.1685,Regular Air,1663.083,175.99,Todd Boyes,Small Business,Technology
+2146,09-13-2012,44,113.71,Regular Air,41.7,2.61,Todd Boyes,Small Business,Office Supplies
+2147,09-05-2012,15,605.1,Express Air,92.81,40.98,Hallie Redmond,Home Office,Office Supplies
+2149,03-12-2010,4,43.56,Regular Air,21.21,9.38,Lori Olson,Consumer,Furniture
+2150,06-02-2009,21,3905.75,Delivery Truck,55.30185,179.29,Vivian Mathis,Corporate,Furniture
+2181,09-12-2011,40,102.56,Regular Air,36.62,2.61,Kelly Lampkin,Home Office,Office Supplies
+2181,09-12-2011,3,15.87,Express Air,2.53,3.49,Kelly Lampkin,Home Office,Office Supplies
+2208,04-30-2011,7,82.06,Regular Air,-26.9905,11.5,Jack O'Briant,Home Office,Office Supplies
+2208,04-30-2011,41,23281.05,Regular Air,9097.645,599.99,Jack O'Briant,Home Office,Technology
+2209,07-09-2012,27,9418.73,Delivery Truck,2245.24,320.98,Pete Armstrong,Consumer,Furniture
+2209,07-09-2012,1,5.68,Regular Air,-1.82,4.76,Pete Armstrong,Consumer,Office Supplies
+2209,07-09-2012,42,174.59,Regular Air,25.88,4.28,Pete Armstrong,Consumer,Office Supplies
+2209,07-09-2012,13,1265.497,Regular Air,-161.117,125.99,Pete Armstrong,Consumer,Technology
+2211,06-29-2009,22,1651.09,Regular Air,-2.38000000000002,73.98,Vivian Mathis,Home Office,Technology
+2211,06-29-2009,14,95.89,Regular Air,-46.31,5.98,Vivian Mathis,Home Office,Office Supplies
+2211,06-29-2009,23,80.38,Regular Air,-71.11,3.57,Vivian Mathis,Home Office,Office Supplies
+2213,01-14-2010,6,40.31,Regular Air,-32.27,5.78,Sam Zeldin,Small Business,Office Supplies
+2240,03-05-2012,17,186.02,Regular Air,16.48,10.64,Sarah Brown,Consumer,Furniture
+2240,03-05-2012,5,142.44,Regular Air,-22.12,28.15,Sarah Brown,Consumer,Office Supplies
+2241,05-10-2010,38,967.78,Regular Air,369.325,24.95,Sarah Brown,Consumer,Office Supplies
+2244,01-08-2010,19,88.61,Express Air,21.471,3.8,Elpida Rittenbach,Consumer,Office Supplies
+2247,08-01-2012,6,21134.71,Delivery Truck,-4266.0885,3502.14,Clay Cheatham,Small Business,Technology
+2272,04-12-2010,39,7680.29,Delivery Truck,-513.79042,212.6,Grant Donatelli,Consumer,Furniture
+2275,10-21-2012,49,278,Regular Air,41.67,6.08,Grant Carroll,Small Business,Office Supplies
+2277,01-01-2011,10,66.54,Regular Air,-46.03,5.98,Don Miller,Home Office,Technology
+2277,01-01-2011,21,845.32,Regular Air,33.67,40.99,Don Miller,Home Office,Office Supplies
+2279,02-22-2010,49,4577.18,Delivery Truck,205.83,90.98,Rob Haberlin,Corporate,Furniture
+2279,02-22-2010,39,845.9,Regular Air,52.53,20.98,Rob Haberlin,Corporate,Office Supplies
+2305,01-25-2010,33,3116.47,Delivery Truck,-1578.26,100.98,Maribeth Dona,Home Office,Furniture
+2305,01-25-2010,1,12.41,Regular Air,-9.08,6.68,Maribeth Dona,Home Office,Office Supplies
+2305,01-25-2010,11,1382.8,Regular Air,141.31,120.33,Maribeth Dona,Home Office,Office Supplies
+2306,07-25-2011,15,113.5,Regular Air,-46.345,7.45,Liz Thompson,Corporate,Office Supplies
+2307,06-28-2010,32,182.33,Regular Air,40.851,5.98,Carol Adams,Corporate,Office Supplies
+2309,09-03-2011,7,27.01,Regular Air,-1.2995,3.8,Eric Barreto,Consumer,Office Supplies
+2311,05-01-2011,31,1324.09,Regular Air,94.96,40.89,Fred Harton,Home Office,Furniture
+2339,12-14-2010,12,1634.98,Regular Air,-120.45,140.85,Jennifer Braxton,Small Business,Office Supplies
+2341,05-29-2010,29,157.49,Regular Air,-58.25,5.78,Sara Luxemburg,Small Business,Office Supplies
+2368,08-19-2010,36,508.73,Regular Air,-229.67,14.81,Sally Hughsby,Consumer,Office Supplies
+2370,01-16-2009,6,679.6,Regular Air,-85.76,110.98,Sanjit Jacobs,Consumer,Furniture
+2370,01-16-2009,30,257.42,Regular Air,59.18,8.01,Sanjit Jacobs,Consumer,Office Supplies
+2373,03-11-2009,36,317.59,Regular Air,-46.115,8.6,Craig Carroll,Corporate,Office Supplies
+2374,10-28-2010,21,78.17,Express Air,-72.703,2.84,Vivek Gonzalez,Consumer,Office Supplies
+2433,08-21-2009,14,24105.87,Delivery Truck,4073.25,2036.48,Cari Sayre,Corporate,Technology
+2436,09-10-2011,14,330.21,Express Air,83.24,22.84,Adam Hart,Corporate,Office Supplies
+2438,07-14-2010,20,278.68,Regular Air,8.8995,14.48,Andrew Allen,Corporate,Office Supplies
+2438,07-14-2010,23,717.468,Regular Air,316.476,35.99,Andrew Allen,Corporate,Technology
+2465,06-23-2011,28,1082.45,Regular Air,271.87,39.48,Rob Haberlin,Consumer,Technology
+2466,03-05-2009,25,2553.84,Regular Air,553.7,107.53,Quincy Jones,Home Office,Furniture
+2467,07-15-2011,30,4147.47,Delivery Truck,586.61,145.45,Caroline Jumper,Corporate,Technology
+2497,08-26-2012,21,3629.1175,Regular Air,636.03,205.99,Michael Moore,Corporate,Technology
+2500,08-14-2012,5,22.56,Regular Air,-25.5645,3.36,Bobby Elias,Small Business,Office Supplies
+2503,06-19-2010,21,91.15,Regular Air,-71.5415,4.13,Maria Zettner,Corporate,Office Supplies
+2503,06-19-2010,46,171.48,Regular Air,66.13,4.13,Maria Zettner,Corporate,Office Supplies
+2503,06-19-2010,9,162.1545,Regular Air,-73.744,20.99,Maria Zettner,Corporate,Technology
+2530,03-20-2009,9,23.46,Regular Air,4.58,2.61,Rob Haberlin,Corporate,Office Supplies
+2532,10-10-2011,39,282.07,Regular Air,140.01,7.31,Alan Barnes,Corporate,Office Supplies
+2532,10-10-2011,24,426.037,Regular Air,-78.958,20.99,Alan Barnes,Corporate,Technology
+2535,05-24-2010,6,82.72,Regular Air,-29.71,14.48,Roland Fjeld,Corporate,Technology
+2560,09-04-2012,32,731.22,Regular Air,-84.07,20.97,Harold Ryan,Home Office,Technology
+2560,09-04-2012,23,114.14,Regular Air,-65.62,4.98,Harold Ryan,Home Office,Office Supplies
+2562,07-31-2012,28,64.82,Regular Air,-32.03,2.12,Cindy Chapman,Consumer,Technology
+2562,07-31-2012,6,77.6,Regular Air,-37.07,11.34,Cindy Chapman,Consumer,Office Supplies
+2562,07-31-2012,17,821.18,Express Air,308.63,48.91,Cindy Chapman,Consumer,Office Supplies
+2563,11-18-2010,12,31.77,Regular Air,8.34,2.61,Brenda Bowman,Small Business,Office Supplies
+2563,11-18-2010,33,208.05,Regular Air,46.01,5.98,Brenda Bowman,Small Business,Office Supplies
+2593,09-03-2010,5,2004.12,Express Air,276.675,420.98,John Dryer,Corporate,Office Supplies
+2593,09-03-2010,15,3841.72,Delivery Truck,691.13,243.98,John Dryer,Corporate,Furniture
+2595,12-13-2011,13,11764.25,Delivery Truck,2322.44,880.98,Art Miller,Corporate,Furniture
+2595,12-13-2011,4,25.17,Regular Air,5.88,5.47,Art Miller,Corporate,Furniture
+2595,12-13-2011,29,208.47,Express Air,-125.6,6.48,Art Miller,Corporate,Office Supplies
+2626,09-07-2011,16,48.37,Regular Air,18.02,2.88,Christine Kargatis,Small Business,Office Supplies
+2628,10-21-2010,14,34.59,Regular Air,-60.13,2.18,Eileen Kiefer,Consumer,Office Supplies
+2628,10-21-2010,29,5029.216,Delivery Truck,-752.832,218.75,Eileen Kiefer,Consumer,Furniture
+2630,10-23-2012,31,146.51,Regular Air,37.14,4.73,Patrick Ryan,Corporate,Office Supplies
+2631,09-23-2010,27,1078.49,Regular Air,252.66,40.96,Jack Garza,Corporate,Technology
+2656,05-03-2010,3,523.11,Delivery Truck,-214.533,159.31,Nathan Cano,Consumer,Furniture
+2656,05-03-2010,29,913.41,Regular Air,237.141,35.99,Nathan Cano,Consumer,Technology
+2657,10-16-2011,30,8316.76,Delivery Truck,2108.8,279.81,Troy Blackwell,Home Office,Office Supplies
+2657,10-16-2011,37,2143.2155,Regular Air,464.355,65.99,Troy Blackwell,Home Office,Technology
+2658,09-22-2011,34,229.51,Regular Air,-189.33,6.48,Bill Shonely,Small Business,Office Supplies
+2658,09-22-2011,32,473,Express Air,-185.8,15.42,Bill Shonely,Small Business,Office Supplies
+2659,12-17-2010,50,881.65,Regular Air,41.27,18.97,Alice McCarthy,Corporate,Office Supplies
+2688,01-23-2012,31,2080.035,Regular Air,844.902,85.99,Thais Sissman,Small Business,Technology
+2688,01-23-2012,7,145.42,Regular Air,-98.46,20.97,Thais Sissman,Small Business,Technology
+2688,01-23-2012,11,1559.4355,Regular Air,61.236,155.99,Thais Sissman,Small Business,Technology
+2691,04-29-2012,14,3363.14,Delivery Truck,98.75,260.98,Ted Trevino,Corporate,Furniture
+2720,06-07-2010,36,2051.016,Express Air,483.966,65.99,Christopher Martinez,Small Business,Technology
+2722,04-08-2009,46,1895.55,Regular Air,807.62,40.97,Jay Fine,Consumer,Technology
+2725,05-20-2009,39,2178.431,Express Air,396.972,65.99,Dave Poirier,Small Business,Technology
+2752,11-18-2010,30,695.47,Regular Air,226.73,22.98,Todd Boyes,Small Business,Technology
+2752,11-18-2010,41,152.59,Regular Air,55.48,3.78,Todd Boyes,Small Business,Office Supplies
+2752,11-18-2010,10,365.62,Regular Air,15.77,34.76,Todd Boyes,Small Business,Office Supplies
+2752,11-18-2010,10,575.569,Regular Air,-86.515,65.99,Todd Boyes,Small Business,Technology
+2754,04-02-2009,16,1427.67,Regular Air,422.8,90.24,Philip Brown,Home Office,Office Supplies
+2754,04-02-2009,11,499.26,Express Air,144.05,47.9,Philip Brown,Home Office,Office Supplies
+2755,02-06-2012,30,736.3,Regular Air,259.0715,24.95,Jane Waco,Corporate,Office Supplies
+2755,02-06-2012,50,346.06,Regular Air,-76.54,6.48,Jane Waco,Corporate,Office Supplies
+2756,04-17-2009,25,1344.88,Regular Air,-13.77,55.94,Denny Ordway,Small Business,Technology
+2756,04-17-2009,42,248.54,Regular Air,111.75,6.3,Denny Ordway,Small Business,Office Supplies
+2757,07-19-2011,39,3554.46,Delivery Truck,-1766.01,95.95,Julia West,Corporate,Furniture
+2757,07-19-2011,42,569.32,Express Air,84.38,12.98,Lycoris Saunders,Corporate,Office Supplies
+2759,11-24-2010,25,827.47,Regular Air,45.37,30.98,Brenda Bowman,Small Business,Technology
+2790,08-18-2009,7,45.91,Regular Air,-35.535,5.44,Maribeth Dona,Home Office,Office Supplies
+2790,08-18-2009,41,22319.58,Delivery Truck,-734.31,549.99,Maribeth Dona,Home Office,Technology
+2790,08-18-2009,15,330.24,Express Air,8.48,22.01,Maribeth Dona,Home Office,Office Supplies
+2790,08-18-2009,15,520.65,Regular Air,30.63,34.76,Maribeth Dona,Home Office,Office Supplies
+2791,10-09-2009,47,191.67,Regular Air,-236.2675,3.89,Eugene Barchas,Corporate,Office Supplies
+2791,10-09-2009,49,5586.33,Delivery Truck,80.44,120.98,Eugene Barchas,Corporate,Furniture
+2791,10-09-2009,18,507.64,Regular Air,118.94,30.98,Eugene Barchas,Corporate,Office Supplies
+2816,09-19-2009,35,787.56,Regular Air,220.04,21.98,Ross Baird,Corporate,Office Supplies
+2817,04-18-2009,14,3830.14,Regular Air,202.25,300.97,Luke Schmidt,Home Office,Technology
+2817,04-18-2009,40,1559.86,Regular Air,672.37,39.89,Luke Schmidt,Home Office,Furniture
+2818,12-11-2009,37,565.91,Regular Air,192.39,15.68,Ross Baird,Corporate,Furniture
+2818,12-11-2009,39,593.21,Regular Air,44.71,14.98,Ross Baird,Corporate,Furniture
+2818,12-11-2009,2,89.23,Regular Air,-42.72,38.76,Ross Baird,Corporate,Office Supplies
+2823,09-08-2011,17,357.43,Regular Air,-135.98,20.97,Robert Waldorf,Home Office,Technology
+2823,09-08-2011,21,4754.08,Delivery Truck,299.88,225.02,Robert Waldorf,Home Office,Office Supplies
+2848,03-09-2012,35,1476.39,Express Air,-303.62,43.31,Emily Grady,Home Office,Furniture
+2848,03-09-2012,8,863.583,Regular Air,-264.275,125.99,Emily Grady,Home Office,Technology
+2852,01-15-2010,10,74.87,Regular Air,-43.97,6.48,Luke Schmidt,Home Office,Office Supplies
+2852,01-15-2010,42,3931.318,Regular Air,1025.451,115.99,Luke Schmidt,Home Office,Technology
+2853,05-04-2009,25,4253.65,Express Air,943,178.47,Bill Tyler,Consumer,Office Supplies
+2882,08-21-2011,23,3872.87,Delivery Truck,565.34,160.98,Yoseph Carroll,Consumer,Furniture
+2882,08-21-2011,9,356.72,Regular Air,12.61,40.98,Yoseph Carroll,Consumer,Technology
+2883,01-22-2011,34,2154.34,Regular Air,177.66,64.98,Rob Haberlin,Consumer,Office Supplies
+2885,09-18-2012,29,197.41,Regular Air,-128.68,6.48,Nora Price,Home Office,Office Supplies
+2885,09-18-2012,46,712.18,Regular Air,13.98,15.42,Nora Price,Home Office,Office Supplies
+2912,03-11-2012,7,16587.13,Delivery Truck,-3476.8593,2550.14,Tamara Dahlen,Corporate,Technology
+2912,03-11-2012,9,507.98,Express Air,170.9,55.98,Tamara Dahlen,Corporate,Office Supplies
+2914,03-02-2010,3,62.88,Regular Air,-24.74,18.97,Maureen Gastineau,Consumer,Office Supplies
+2915,03-30-2009,41,231.26,Regular Air,32.83,5.98,Tim Brockman,Consumer,Office Supplies
+2915,03-30-2009,23,987.17,Regular Air,51.5900000000001,39.98,Tim Brockman,Consumer,Technology
+2947,04-25-2011,8,57.04,Regular Air,-29.06,6.48,Pete Armstrong,Consumer,Office Supplies
+2976,12-09-2010,30,14223.82,Delivery Truck,3424.22,500.98,Edward Hooks,Consumer,Furniture
+2978,05-02-2011,34,6264.1855,Regular Air,1312.038,205.99,Alan Schoenberger,Corporate,Technology
+2978,05-02-2011,36,5410.95,Regular Air,2077.91,162.93,Alan Schoenberger,Corporate,Office Supplies
+2978,05-02-2011,28,4671.1495,Regular Air,947.313,200.99,Alan Schoenberger,Corporate,Technology
+3008,11-07-2011,41,6831.72,Regular Air,3081.02,162.93,Charles Crestani,Consumer,Office Supplies
+3012,05-04-2010,41,120.03,Regular Air,10.4975,2.78,Maxwell Schwartz,Corporate,Office Supplies
+3014,10-29-2012,13,4002.14,Regular Air,1314.389,304.99,Pamela Stobb,Consumer,Office Supplies
+3040,04-11-2010,13,98.39,Express Air,-31.54,6.48,Tracy Zic,Consumer,Office Supplies
+3042,11-20-2009,26,103.87,Regular Air,15.42,4.26,Christy Brittain,Consumer,Office Supplies
+3046,11-29-2011,24,10094.43,Regular Air,4451.008,420.98,Sung Pak,Small Business,Office Supplies
+3073,01-07-2009,3,10.58,Regular Air,-11.5805,1.98,Jasper Cacioppo,Home Office,Office Supplies
+3073,01-07-2009,3,2119.67,Express Air,-2314.74,699.99,Jasper Cacioppo,Home Office,Technology
+3073,01-07-2009,7,45923.76,Regular Air,102.609999999997,6783.02,Jasper Cacioppo,Home Office,Technology
+3078,02-11-2010,12,33.86,Regular Air,0.350000000000001,2.88,Paul Lucas,Corporate,Office Supplies
+3078,02-11-2010,1,316.61,Delivery Truck,-187.29,291.73,Paul Lucas,Corporate,Furniture
+3104,09-15-2010,50,336.06,Regular Air,-240.78,6.48,David Wiener,Consumer,Office Supplies
+3104,09-15-2010,24,380.38,Express Air,7.29,15.94,David Wiener,Consumer,Office Supplies
+3108,08-04-2010,36,65.39,Regular Air,-0.46,1.82,Jack Garza,Corporate,Office Supplies
+3109,07-23-2010,47,1005.74,Regular Air,199.3,22.23,Liz MacKendrick,Corporate,Furniture
+3109,07-23-2010,37,6477.7395,Regular Air,1653.966,205.99,Liz MacKendrick,Corporate,Technology
+3110,12-16-2009,13,1601.32,Delivery Truck,377.81,119.99,Helen Andreada,Corporate,Technology
+3136,08-09-2009,8,238.74,Regular Air,-38.89,30.98,Paul Prost,Corporate,Office Supplies
+3138,02-08-2009,4,718.03,Express Air,-427.47,179.99,Bradley Nguyen,Consumer,Technology
+3141,11-09-2011,30,534.96,Regular Air,-26.72,18.89,Matt Collister,Home Office,Technology
+3168,01-29-2012,14,80.6,Regular Air,-4.2,5.28,Jasper Cacioppo,Home Office,Furniture
+3169,12-20-2010,7,35.58,Regular Air,-19.95,4.42,Liz Carlisle,Corporate,Office Supplies
+3172,06-02-2012,33,584.511,Regular Air,-95.975,20.99,Annie Thurman,Consumer,Technology
+3175,07-14-2009,23,3553.62,Regular Air,521.69,165.2,Bradley Drucker,Small Business,Office Supplies
+3202,12-23-2012,10,554.21,Regular Air,-105.37,53.98,Richard Eichhorn,Consumer,Technology
+3205,04-10-2012,8,136.61,Regular Air,80.43,15.68,Alan Haines,Consumer,Furniture
+3205,04-10-2012,42,2907.63,Express Air,54.59805,71.37,Alan Haines,Consumer,Furniture
+3232,10-08-2012,5,42.66,Regular Air,-11.8335,7.84,Brad Eason,Small Business,Office Supplies
+3235,11-14-2011,31,142.97,Express Air,-12.26,4.71,James Lanier,Corporate,Office Supplies
+3266,03-16-2011,4,17.12,Regular Air,-2.553,3.8,Edward Becker,Corporate,Office Supplies
+3271,12-31-2011,45,11532.99,Delivery Truck,2753.39,264.98,Joni Blumstein,Home Office,Technology
+3271,12-31-2011,18,146.1,Express Air,51.14,8.34,Joni Blumstein,Home Office,Office Supplies
+3297,11-02-2012,40,158.7,Regular Air,-196.8,3.75,Raymond Book,Consumer,Office Supplies
+3300,07-14-2011,6,92.02,Regular Air,-47.36,15.98,Bryan Spruell,Home Office,Technology
+3328,11-18-2012,12,1736.41,Delivery Truck,-762.44,146.05,Adam Hart,Corporate,Furniture
+3331,05-20-2010,31,153.28,Regular Air,73.16,4.91,Neil Knudson,Corporate,Office Supplies
+3332,11-04-2009,6,22.19,Regular Air,-3.51,3.26,Ben Peterman,Corporate,Office Supplies
+3333,09-15-2012,42,927.97,Regular Air,162.17,22.98,Sandra Flanagan,Home Office,Office Supplies
+3333,09-15-2012,9,59.05,Regular Air,-24.09,6.48,Sandra Flanagan,Home Office,Office Supplies
+3361,08-22-2012,49,213.71,Regular Air,-208.02,4.28,Michael Granlund,Corporate,Office Supplies
+3361,08-22-2012,23,133.66,Regular Air,-5.6,5.85,Michael Granlund,Corporate,Office Supplies
+3362,07-28-2011,40,1699.52,Regular Air,734.75,40.98,Christina Vanderzanden,Small Business,Technology
+3362,07-28-2011,50,760.85,Regular Air,-109.1,15.14,Christina Vanderzanden,Small Business,Office Supplies
+3363,09-22-2011,21,8185.89,Regular Air,2137.28,415.88,Gary Zandusky,Home Office,Office Supplies
+3393,07-03-2011,7,127.74,Express Air,-5.57,15.98,Steve Carroll,Consumer,Technology
+3393,07-03-2011,33,325.92,Regular Air,-36.47,9.48,Steve Carroll,Consumer,Furniture
+3395,10-29-2009,31,181.17,Express Air,-59.8805,5.38,Cathy Armstrong,Consumer,Office Supplies
+3395,10-29-2009,1,13.16,Regular Air,-10.29,7.35,Cathy Armstrong,Consumer,Office Supplies
+3395,10-29-2009,7,107.88,Regular Air,25.59,15.57,Cathy Armstrong,Consumer,Office Supplies
+3395,10-29-2009,29,623.02,Regular Air,-255.66,20.89,Cathy Armstrong,Consumer,Office Supplies
+3397,06-22-2009,43,815.89,Regular Air,-20.25,19.98,Alex Grayson,Consumer,Technology
+3397,06-22-2009,11,30.61,Regular Air,-3.381,2.88,Alex Grayson,Consumer,Office Supplies
+3456,05-31-2010,20,5418.68,Delivery Truck,332.3007,280.98,George Zrebassa,Small Business,Furniture
+3458,12-21-2009,41,627.91,Regular Air,222.08,15.28,Lisa DeCherney,Corporate,Technology
+3458,12-21-2009,28,46.89,Regular Air,-3.83,1.76,Lisa DeCherney,Corporate,Office Supplies
+3459,07-27-2009,24,2152.404,Express Air,218.871,110.99,Gary McGarr,Home Office,Technology
+3460,10-02-2011,27,153.23,Regular Air,-95.15,5.98,Steve Nguyen,Consumer,Office Supplies
+3461,01-30-2010,47,2053.379,Regular Air,1040.4,55.99,Susan Gilcrest,Home Office,Technology
+3461,01-30-2010,35,3206.3955,Regular Air,784.773,115.99,Susan Gilcrest,Home Office,Technology
+3463,08-17-2010,43,264.75,Regular Air,-212.51,6.48,Julia Dunbar,Consumer,Office Supplies
+3488,01-07-2011,39,4669.19,Delivery Truck,-1864.08,122.99,Mick Crebagga,Home Office,Furniture
+3488,01-07-2011,6,133.4,Regular Air,-0.310000000000002,21.98,Mick Crebagga,Home Office,Office Supplies
+3492,11-23-2009,35,2393.63,Regular Air,524.875,67.28,Roy Skaria,Corporate,Office Supplies
+3492,11-23-2009,49,6177.53,Delivery Truck,-1195.12,130.98,Roy Skaria,Corporate,Furniture
+3492,11-23-2009,33,94.6,Regular Air,-6.34,2.78,Roy Skaria,Corporate,Office Supplies
+3493,08-23-2010,48,7518.12,Regular Air,1027.63,152.48,Patrick Jones,Home Office,Technology
+3521,10-25-2012,50,204.11,Regular Air,28.71,4.28,Giulietta Baptist,Home Office,Office Supplies
+3522,09-25-2009,33,1935.17,Regular Air,-991.07,60.98,James Galang,Consumer,Office Supplies
+3522,09-25-2009,27,812.68,Regular Air,235.88,29.89,James Galang,Consumer,Technology
+3524,05-02-2012,21,427.32,Regular Air,52.35,18.97,Nicole Hansen,Small Business,Office Supplies
+3525,12-21-2011,38,115.43,Regular Air,11.41,2.78,Bryan Spruell,Home Office,Office Supplies
+3526,03-15-2011,20,246.06,Regular Air,20.67,12.07,Tom Prescott,Small Business,Furniture
+3553,05-17-2009,7,20.5,Regular Air,-4.04,2.94,Roy Skaria,Corporate,Office Supplies
+3554,06-16-2011,25,288.91,Regular Air,-14.06,12.28,Ken Heidel,Corporate,Office Supplies
+3556,09-22-2012,48,269.37,Regular Air,-103.546,5.74,George Zrebassa,Home Office,Office Supplies
+3556,09-22-2012,41,4933.99,Regular Air,1161.89,128.24,George Zrebassa,Home Office,Furniture
+3559,10-23-2012,34,136.67,Express Air,-117.921,3.81,Logan Haushalter,Corporate,Office Supplies
+3585,11-22-2009,27,259.72,Regular Air,78.05,10.06,Ann Blume,Corporate,Office Supplies
+3585,11-22-2009,34,54.69,Regular Air,-35.75,1.68,Ann Blume,Corporate,Office Supplies
+3586,12-04-2010,32,383.57,Regular Air,70.51,12.58,Lena Cacioppo,Home Office,Furniture
+3586,12-04-2010,31,461.1,Regular Air,116.96,14.34,Lena Cacioppo,Home Office,Furniture
+3588,03-18-2011,42,374.38,Regular Air,-1.16,8.67,Patrick Jones,Home Office,Office Supplies
+3588,03-18-2011,21,1557.42,Regular Air,-123.81,73.98,Patrick Jones,Home Office,Technology
+3588,03-18-2011,14,410.27,Regular Air,226.72,30.93,Patrick Jones,Home Office,Furniture
+3588,03-18-2011,18,1531.93,Delivery Truck,326.56,90.97,Patrick Jones,Home Office,Technology
+3589,05-25-2009,23,72.93,Regular Air,28.55,3.15,Denise Leinenbach,Home Office,Office Supplies
+3591,12-07-2010,3,321.57,Delivery Truck,-100.05,100.98,Herbert Flentye,Small Business,Office Supplies
+3591,12-07-2010,12,1085.16,Delivery Truck,-311.54,89.99,Herbert Flentye,Small Business,Furniture
+3621,05-05-2010,14,83.87,Regular Air,-28.83,5.58,Eric Barreto,Small Business,Office Supplies
+3622,11-26-2011,16,76.6,Regular Air,-48.507,4.24,Steven Ward,Consumer,Office Supplies
+3648,06-16-2010,46,134.81,Regular Air,52.36,3.15,Philip Brown,Home Office,Office Supplies
+3648,06-16-2010,34,5488.5265,Regular Air,1382.445,195.99,Philip Brown,Home Office,Technology
+3649,07-05-2009,8,79.42,Regular Air,-15.456,8.88,Brad Thomas,Home Office,Office Supplies
+3649,07-05-2009,26,75.6,Regular Air,17.14,2.88,Brad Thomas,Home Office,Office Supplies
+3650,05-27-2012,36,139.95,Express Air,-128.593,3.58,Denise Monton,Home Office,Office Supplies
+3650,05-27-2012,24,5207.5,Delivery Truck,166.44,216.6,Denise Monton,Home Office,Furniture
+3653,03-26-2009,41,271.11,Regular Air,64.79,6.68,Lynn Smith,Corporate,Office Supplies
+3654,06-02-2012,41,95.73,Regular Air,-151.15,2.08,Karl Brown,Corporate,Furniture
+3654,06-02-2012,39,7338.79,Regular Air,4031.62,204.1,Karl Brown,Corporate,Technology
+3654,06-02-2012,47,12569.31,Delivery Truck,3160.63,279.81,Karl Brown,Corporate,Office Supplies
+3655,10-05-2012,3,62.54,Regular Air,-30.7395,15.99,Tony Sayre,Small Business,Office Supplies
+3655,10-05-2012,24,2750.107,Regular Air,600.417,125.99,Tony Sayre,Small Business,Technology
+3680,12-09-2012,27,177.95,Regular Air,-61.75,6.48,Evan Henry,Corporate,Office Supplies
+3680,12-09-2012,24,99.53,Express Air,18.2835,3.8,Evan Henry,Corporate,Office Supplies
+3685,01-16-2012,29,106.78,Regular Air,-98.05,3.28,Mike Vittorini,Small Business,Office Supplies
+3687,02-02-2010,25,79.37,Regular Air,6.14,3.29,Marc Harrigan,Home Office,Office Supplies
+3745,09-28-2010,38,1143.35,Express Air,411.1,29.18,Erin Smith,Home Office,Furniture
+3746,09-10-2009,14,1463.0965,Regular Air,162.666,115.99,Alan Dominguez,Corporate,Technology
+3746,09-10-2009,38,246.3,Regular Air,-67.49,5.98,Alan Dominguez,Corporate,Office Supplies
+3749,02-23-2011,27,353.62,Regular Air,140.148,12.97,Ken Black,Consumer,Office Supplies
+3750,04-29-2011,12,76.16,Regular Air,-24.03,5.98,Aaron Smayling,Small Business,Office Supplies
+3777,04-07-2009,14,244.85,Express Air,38.06,17.67,Christine Kargatis,Small Business,Furniture
+3778,05-25-2010,34,268.09,Regular Air,-63.76,8.32,Deirdre Greer,Home Office,Technology
+3778,05-25-2010,12,557.03,Regular Air,8.95,45.19,Deirdre Greer,Home Office,Technology
+3778,05-25-2010,3,26.53,Regular Air,-15,6.68,Deirdre Greer,Home Office,Office Supplies
+3778,05-25-2010,34,5133.9235,Regular Air,1313.946,175.99,Deirdre Greer,Home Office,Technology
+3783,12-05-2010,11,92.14,Regular Air,-40.25,8.12,Jonathan Doherty,Corporate,Technology
+3783,12-05-2010,40,257.43,Regular Air,-200.63,6.48,Jonathan Doherty,Corporate,Office Supplies
+3808,04-23-2009,2,6.13,Regular Air,-2.83,2.89,Lynn Smith,Corporate,Office Supplies
+3810,09-16-2012,40,221.86,Regular Air,-1845.66,4.48,Tanja Norvell,Corporate,Office Supplies
+3810,09-16-2012,25,78.26,Express Air,35.09,2.61,Tanja Norvell,Corporate,Office Supplies
+3814,02-21-2011,43,1225.41,Express Air,-138.02,28.28,Thomas Thornton,Consumer,Office Supplies
+3841,10-04-2009,19,1184.45,Regular Air,-552.1,60.98,John Stevenson,Small Business,Office Supplies
+3841,10-04-2009,20,25409.63,Regular Air,11535.282,1270.99,John Stevenson,Small Business,Office Supplies
+3841,10-04-2009,43,7308.283,Express Air,1680.228,205.99,John Stevenson,Small Business,Technology
+3845,04-25-2012,9,3064.27,Regular Air,294.39,363.25,Stephanie Phelps,Consumer,Office Supplies
+3845,04-25-2012,22,475.72,Regular Air,-10.4,19.98,Stephanie Phelps,Consumer,Furniture
+3845,04-25-2012,15,123.91,Regular Air,39.04,8.34,Stephanie Phelps,Consumer,Furniture
+3877,05-20-2010,14,700.46,Express Air,254.31,48.04,Paul Knutson,Corporate,Office Supplies
+3905,12-20-2010,42,2537.88,Delivery Truck,-377.25,60.89,Muhammed Lee,Consumer,Furniture
+3907,08-18-2012,36,218.12,Regular Air,-1642.65,4.48,Christopher Martinez,Small Business,Office Supplies
+3907,08-18-2012,34,729.83,Regular Air,-135.102,22.38,Christopher Martinez,Small Business,Office Supplies
+3907,08-18-2012,36,1083.19,Express Air,214.61,29.99,Christopher Martinez,Small Business,Technology
+3908,03-08-2010,8,820.284,Regular Air,-180.202,115.99,Dorothy Wardle,Corporate,Technology
+3911,03-16-2011,24,370.72,Regular Air,-156.76,15.7,Bobby Elias,Small Business,Office Supplies
+3942,06-27-2010,11,225.14,Regular Air,-42.61,20.15,Keith Herrera,Small Business,Office Supplies
+3942,06-27-2010,22,1559.7755,Regular Air,-247.181,85.99,Keith Herrera,Small Business,Technology
+3970,03-26-2012,39,1032.97,Regular Air,397.15,28.48,Christina DeMoss,Home Office,Technology
+3970,03-26-2012,13,324.83,Delivery Truck,-426.54,20.98,Christina DeMoss,Home Office,Office Supplies
+3973,03-23-2012,21,316.35,Regular Air,117.91,15.68,Bobby Odegard,Corporate,Furniture
+4004,05-06-2010,14,63.52,Regular Air,8.66,4.84,Sheri Gordon,Corporate,Office Supplies
+4004,05-06-2010,44,1512.25,Regular Air,195.48,34.58,Sheri Gordon,Corporate,Office Supplies
+4006,01-03-2011,38,1441.61,Regular Air,624.84,37.94,Jas O'Carroll,Corporate,Office Supplies
+4007,06-17-2010,18,1038.4,Regular Air,112.36,56.96,Jack Lebron,Corporate,Office Supplies
+4007,06-17-2010,1,305.82,Regular Air,-232.24,279.48,Jack Lebron,Corporate,Office Supplies
+4033,06-01-2010,21,763.12,Regular Air,140.33,34.76,Bill Tyler,Consumer,Office Supplies
+4033,06-01-2010,38,19269.05,Delivery Truck,4127.79,500.98,Bill Tyler,Consumer,Furniture
+4034,11-13-2010,44,3367.24,Regular Air,-1183.69,79.52,Christine Sundaresam,Small Business,Furniture
+4034,11-13-2010,37,5723.24,Delivery Truck,-194.967,145.98,Christine Sundaresam,Small Business,Furniture
+4037,03-23-2010,27,188.07,Regular Air,-101.85,6.48,Bruce Stewart,Corporate,Office Supplies
+4067,10-06-2012,16,118.38,Regular Air,-42.458,7.1,Shahid Shariari,Corporate,Office Supplies
+4069,05-12-2012,8,54.43,Regular Air,-31.63,6.48,Harold Dahlen,Consumer,Office Supplies
+4069,05-12-2012,47,124.94,Express Air,-2.4,2.78,Harold Dahlen,Consumer,Office Supplies
+4069,05-12-2012,30,78.46,Regular Air,18.57,2.62,Harold Dahlen,Consumer,Office Supplies
+4070,06-11-2011,22,646.07,Express Air,237.75,28.48,Joe Elijah,Home Office,Technology
+4096,07-02-2012,21,128.28,Regular Air,53.58,6.3,Bill Eplett,Corporate,Office Supplies
+4099,08-20-2012,42,1691.51,Regular Air,285.16,42.76,Ed Braxton,Consumer,Office Supplies
+4099,08-20-2012,12,122.93,Regular Air,-6.83,9.78,Ed Braxton,Consumer,Office Supplies
+4099,08-20-2012,4,47.86,Regular Air,-17.32,9.48,Ed Braxton,Consumer,Furniture
+4099,08-20-2012,39,3607.8505,Regular Air,784.494,110.99,Ed Braxton,Consumer,Technology
+4103,07-02-2012,3,42.5,Regular Air,-28.43,11.66,Denise Leinenbach,Home Office,Office Supplies
+4128,10-06-2011,38,391.42,Regular Air,25.03,9.99,Allen Golden,Consumer,Office Supplies
+4132,05-28-2011,5,14.76,Regular Air,1.32,2.88,Aaron Bergman,Corporate,Office Supplies
+4134,01-11-2011,48,6403.39,Delivery Truck,-824.15,130.98,Anthony Garverick,Small Business,Furniture
+4134,01-11-2011,23,757.91,Regular Air,-16.05,30.97,Anthony Garverick,Small Business,Technology
+4162,02-09-2012,2,381.6,Regular Air,-319.02,193.17,Alyssa Tate,Small Business,Office Supplies
+4166,02-27-2010,19,138.85,Regular Air,-49.3465,7.1,Patrick Ryan,Corporate,Office Supplies
+4193,01-08-2009,16,64.29,Regular Air,14.42,4.13,Sandra Flanagan,Home Office,Office Supplies
+4193,01-08-2009,3,75.77,Regular Air,64.25,22.72,Sandra Flanagan,Home Office,Furniture
+4195,05-28-2010,30,255.74,Regular Air,37.09,8.5,Art Miller,Corporate,Technology
+4199,02-12-2012,43,639.71,Express Air,102.53,14.2,Bruce Money,Corporate,Furniture
+4230,03-03-2012,18,409.16,Regular Air,21.96,22.72,Tamara Willingham,Corporate,Furniture
+4230,03-03-2012,46,2508.316,Express Air,456.813,65.99,Tamara Willingham,Corporate,Technology
+4257,03-24-2011,45,253.89,Regular Air,-83.66,5.58,Liz Price,Consumer,Office Supplies
+4261,10-02-2012,22,1556.87,Delivery Truck,-521.42,68.81,Lela Donovan,Corporate,Office Supplies
+4261,10-02-2012,33,195.98,Regular Air,-71.47,5.98,Lela Donovan,Corporate,Office Supplies
+4261,10-02-2012,32,9235.97,Regular Air,2848.17,300.65,Lela Donovan,Corporate,Office Supplies
+4261,10-02-2012,48,274.38,Regular Air,-94.82,5.78,Lela Donovan,Corporate,Office Supplies
+4294,08-14-2012,8,17.72,Regular Air,-15.34,1.74,Mike Vittorini,Small Business,Furniture
+4321,07-17-2009,47,1505.57,Express Air,-54.63,30.53,Pauline Chand,Corporate,Office Supplies
+4324,07-16-2011,28,1165.33,Regular Air,154.85,40.97,Dan Campbell,Small Business,Office Supplies
+4354,09-29-2009,6,49.04,Regular Air,7.74,7.38,Erin Creighton,Corporate,Furniture
+4359,03-02-2010,21,215.76,Regular Air,-97.75,10.9,Kelly Andreada,Home Office,Office Supplies
+4387,10-22-2011,4,640.21,Delivery Truck,-388.5167,150.98,Sandra Flanagan,Corporate,Furniture
+4389,05-04-2009,35,179.45,Regular Air,-116.3455,5.34,Victoria Pisteka,Corporate,Office Supplies
+4389,05-04-2009,49,7987.43,Delivery Truck,1304.9,160.98,Victoria Pisteka,Corporate,Furniture
+4389,05-04-2009,42,2455.276,Express Air,693.063,65.99,Victoria Pisteka,Corporate,Technology
+4391,02-17-2012,20,2592.432,Regular Air,428.472,155.99,Eugene Moren,Home Office,Technology
+4416,06-29-2012,46,7441.29,Regular Air,2665.396,165.98,Erica Bern,Corporate,Office Supplies
+4422,05-21-2011,12,313.43,Regular Air,104.03,25.38,Scott Cohen,Consumer,Furniture
+4422,05-21-2011,17,390.11,Regular Air,-19.92,21.38,Scott Cohen,Consumer,Office Supplies
+4451,09-30-2009,47,992.95,Regular Air,-65.21,21.38,Tanja Norvell,Corporate,Office Supplies
+4454,02-01-2009,17,55.45,Regular Air,21.42,3.08,Erica Bern,Corporate,Office Supplies
+4455,10-10-2010,39,279.29,Regular Air,14.15,7.59,Michael Paige,Small Business,Furniture
+4487,02-22-2010,50,325.24,Regular Air,-79.419,6.54,Scott Williamson,Small Business,Office Supplies
+4512,10-24-2011,43,6077.11,Delivery Truck,-353.659878,146.34,Sandra Flanagan,Home Office,Furniture
+4514,04-29-2009,28,2841.4395,Regular Air,374.625,125.99,Yoseph Carroll,Consumer,Technology
+4515,03-16-2012,7,887.94,Regular Air,49.45,120.97,Vivian Mathis,Consumer,Technology
+4516,03-28-2009,42,294.78,Regular Air,-113.45,6.68,Ryan Crowe,Small Business,Office Supplies
+4545,01-16-2010,33,126.38,Regular Air,26.64,4,Pauline Chand,Small Business,Office Supplies
+4545,01-16-2010,4,33.1,Regular Air,-24.15,6.48,Pauline Chand,Small Business,Office Supplies
+4550,12-28-2009,32,3730.54,Delivery Truck,1369.09,119.99,Gary Zandusky,Home Office,Technology
+4578,09-12-2012,45,282.71,Regular Air,-141.44,6.48,Roy Skaria,Corporate,Office Supplies
+4578,09-12-2012,48,724.13,Regular Air,-250.53,14.81,Roy Skaria,Corporate,Office Supplies
+4578,09-12-2012,15,294.66,Regular Air,86.33,20.24,Roy Skaria,Corporate,Furniture
+4579,11-30-2011,40,1765.05,Regular Air,749.2155,43.41,Dennis Bolton,Small Business,Office Supplies
+4580,11-14-2010,28,7384.54,Delivery Truck,-2301.5278,280.98,Carlos Meador,Consumer,Furniture
+4581,09-03-2012,25,2325.42,Regular Air,739.91,90.48,Thea Hendricks,Home Office,Office Supplies
+4583,09-24-2009,44,3021.64,Delivery Truck,-720.2,70.98,Maxwell Schwartz,Corporate,Furniture
+4610,06-17-2010,8,66.88,Regular Air,-17.01,8.33,Odella Nelson,Small Business,Technology
+4610,06-17-2010,29,447.34,Regular Air,203.01,15.67,Odella Nelson,Small Business,Office Supplies
+4611,01-09-2010,32,16172.44,Delivery Truck,7176.12,500.98,Steven Ward,Consumer,Technology
+4612,09-19-2010,9,89.55,Regular Air,-375.64,4.48,Jim Radford,Corporate,Office Supplies
+4642,02-26-2011,9,65.61,Regular Air,-39.74,7.28,Shahid Shariari,Corporate,Technology
+4642,02-26-2011,21,309.62,Express Air,-80.2,14.03,Shahid Shariari,Corporate,Office Supplies
+4645,09-19-2009,30,920,Regular Air,-45.07,30.73,Clytie Kelty,Small Business,Technology
+4645,09-19-2009,7,104.2,Regular Air,-8.53,14.56,Clytie Kelty,Small Business,Office Supplies
+4645,09-19-2009,11,3563.88,Regular Air,285.95,299.99,Clytie Kelty,Small Business,Technology
+4647,05-13-2009,33,1590.163,Regular Air,-57.541,55.99,Carlos Meador,Corporate,Technology
+4647,05-13-2009,34,482.93,Regular Air,-67.59,13.9,Carlos Meador,Corporate,Office Supplies
+4647,05-13-2009,7,1203.73,Regular Air,293.14,162.93,Carlos Meador,Corporate,Office Supplies
+4647,05-13-2009,6,75.19,Regular Air,-6.61,11.58,Carlos Meador,Corporate,Office Supplies
+4672,11-06-2011,20,152.44,Regular Air,-16.64,7.7,Alan Dominguez,Corporate,Furniture
+4674,04-18-2009,23,3041.33,Delivery Truck,-260.41,130.98,Christina Anderson,Corporate,Furniture
+4675,11-24-2010,4,17.89,Regular Air,-1.15,3.98,Rick Wilson,Consumer,Office Supplies
+4676,08-31-2011,11,1210.0515,Regular Air,-104.247,125.99,Annie Cyprus,Home Office,Technology
+4676,08-31-2011,50,187.83,Regular Air,85.96,3.75,Annie Cyprus,Home Office,Office Supplies
+4676,08-31-2011,3,49.59,Express Air,-8.38,12.28,Annie Cyprus,Home Office,Office Supplies
+4676,08-31-2011,30,4253.009,Regular Air,1115.694,155.99,Annie Cyprus,Home Office,Technology
+4705,03-21-2012,16,123.85,Regular Air,-71.44,7.98,Adrian Hane,Corporate,Office Supplies
+4706,12-28-2012,30,2116.7,Regular Air,488.818,67.28,Bradley Drucker,Small Business,Office Supplies
+4708,09-30-2009,29,180.38,Regular Air,-119.32,6.48,Michelle Tran,Corporate,Office Supplies
+4737,03-10-2010,49,314.21,Regular Air,49.77,5.88,Roy Collins,Corporate,Office Supplies
+4738,04-07-2012,2,10.39,Regular Air,-7.97,4.71,David Kendrick,Home Office,Office Supplies
+4739,02-20-2010,16,48.57,Regular Air,4.21,2.94,Lynn Smith,Corporate,Office Supplies
+4741,07-06-2012,40,342.97,Regular Air,-131.63,8.75,Anthony O'Donnell,Consumer,Furniture
+4743,03-30-2010,29,352.55,Regular Air,128.9875,12.97,Gary Zandusky,Home Office,Office Supplies
+4743,03-30-2010,32,719.64,Regular Air,-245.62,20.89,Gary Zandusky,Home Office,Office Supplies
+4769,04-13-2011,41,117.4,Regular Air,48.63,2.88,Ben Wallace,Home Office,Office Supplies
+4771,12-13-2012,4,135.928,Delivery Truck,-126.47,31.76,Christy Brittain,Consumer,Furniture
+4772,09-13-2009,28,1560.617,Regular Air,214.29,65.99,Neil Knudson,Corporate,Technology
+4773,12-22-2011,48,6746.312,Delivery Truck,-433.290143,179.29,Liz Willingham,Home Office,Furniture
+4773,12-22-2011,26,311.38,Regular Air,34.12,11.58,Liz Willingham,Home Office,Office Supplies
+4774,04-19-2010,4,126.87,Regular Air,-125.99,32.98,Lindsay Williams,Corporate,Technology
+4800,01-05-2012,4,41.94,Regular Air,-26.174,8.04,Max Engle,Corporate,Office Supplies
+4800,01-05-2012,17,89.25,Regular Air,40.88,4.91,Max Engle,Corporate,Office Supplies
+4800,01-05-2012,7,79.81,Regular Air,-4.28,11.55,Max Engle,Corporate,Office Supplies
+4804,01-27-2012,13,463.83,Regular Air,103.26,33.98,Kean Thornton,Corporate,Technology
+4805,04-24-2012,7,55.38,Regular Air,-25.95,6.48,Tony Sayre,Small Business,Office Supplies
+4835,10-24-2009,3,9.4,Regular Air,-7.6,2.52,Eugene Moren,Home Office,Office Supplies
+4839,05-09-2009,24,159.43,Regular Air,-120.59,6.48,Sally Hughsby,Consumer,Office Supplies
+4864,11-10-2012,16,4901.99,Regular Air,1724.6755,315.98,Ralph Kennedy,Corporate,Office Supplies
+4870,08-05-2009,44,17248.09,Delivery Truck,2048.63,400.98,Luke Foster,Corporate,Furniture
+4871,06-11-2011,8,775.74,Delivery Truck,-215.39,89.99,Neil French,Consumer,Furniture
+4871,06-11-2011,26,238.34,Regular Air,-19.31,9.31,Neil French,Consumer,Office Supplies
+4896,08-21-2012,25,831.52,Regular Air,259.47,35.41,Michael Stewart,Small Business,Technology
+4896,08-21-2012,10,1089.87,Express Air,-124.509,125.99,Michael Stewart,Small Business,Technology
+4896,08-21-2012,21,121.3,Regular Air,-64.8715,5.8,Michael Stewart,Small Business,Office Supplies
+4931,11-16-2009,22,168.31,Regular Air,46.49,8.17,Giulietta Dortch,Corporate,Office Supplies
+4931,11-16-2009,45,4282.725,Regular Air,1371.744,110.99,Giulietta Dortch,Corporate,Technology
+4932,08-09-2010,11,109.37,Regular Air,25.96,10.31,Bobby Odegard,Corporate,Office Supplies
+4935,05-24-2010,30,106.64,Regular Air,-31.95,3.68,Xylona Price,Corporate,Office Supplies
+4960,02-25-2011,4,40.87,Express Air,-16.38,6.48,Corinna Mitchell,Corporate,Office Supplies
+4960,02-25-2011,30,8363.65,Delivery Truck,763.33,300.98,Corinna Mitchell,Corporate,Furniture
+4965,10-20-2010,14,1068.79,Regular Air,56.05,76.72,Paul Lucas,Corporate,Office Supplies
+4965,10-20-2010,46,287.13,Regular Air,-186.31,5.78,Paul Lucas,Corporate,Office Supplies
+4996,09-13-2012,30,4305.79,Regular Air,1020.32,142.86,Rob Dowd,Corporate,Office Supplies
+5028,04-16-2012,10,79.68,Regular Air,18.24,7.7,Art Miller,Corporate,Furniture
+5059,11-09-2010,5,41.18,Express Air,-19.3085,5.44,Randy Bradley,Small Business,Office Supplies
+5061,08-13-2010,4,12.8,Regular Air,-2.21,2.88,Sean Wendt,Corporate,Office Supplies
+5092,10-29-2011,3,709.04,Delivery Truck,-337.92,220.98,John Castell,Consumer,Furniture
+5092,10-29-2011,25,978.77,Regular Air,220.91,38.76,John Castell,Consumer,Office Supplies
+5094,03-28-2010,2,79.58,Regular Air,-38.28,37.44,Mark Haberlin,Small Business,Office Supplies
+5095,04-21-2012,7,786.675,Regular Air,-315.029,125.99,Lauren Leatherbury,Corporate,Technology
+5121,05-10-2012,45,1991.703,Regular Air,559.107,55.99,Ralph Kennedy,Corporate,Technology
+5153,08-25-2011,37,4896.93,Express Air,1467.82,128.24,Helen Abelman,Home Office,Furniture
+5155,06-11-2009,14,569.21,Regular Air,-38.51,39.98,Pete Takahito,Corporate,Technology
+5188,03-01-2011,24,192.8,Regular Air,31,8.01,Bradley Drucker,Small Business,Office Supplies
+5189,11-25-2010,12,900.06,Regular Air,-221.12,73.98,Evan Henry,Corporate,Technology
+5189,11-25-2010,14,2066.63,Regular Air,65.58,140.85,Evan Henry,Corporate,Office Supplies
+5189,11-25-2010,8,24.72,Regular Air,-21.47,2.74,Evan Henry,Corporate,Office Supplies
+5217,10-12-2011,8,339.35,Express Air,27.88,40.98,Lycoris Saunders,Home Office,Office Supplies
+5217,10-12-2011,11,33.67,Regular Air,4.08,3.08,Lycoris Saunders,Home Office,Office Supplies
+5221,06-08-2011,48,1347.63,Regular Air,562.89,28.48,Robert Dilbeck,Corporate,Technology
+5222,05-26-2009,40,14451.75,Delivery Truck,4503.63,349.45,Tonja Turnell,Consumer,Furniture
+5251,04-11-2011,38,3821.039,Express Air,1057.887,115.99,Tamara Dahlen,Corporate,Technology
+5254,07-25-2012,31,1735.3515,Regular Air,258.624,65.99,William Brown,Corporate,Technology
+5281,11-01-2011,36,4733.7,Delivery Truck,624.36,120.98,Irene Maddox,Consumer,Furniture
+5281,11-01-2011,14,2718.07,Regular Air,1107.53,209.84,Irene Maddox,Consumer,Furniture
+5283,06-03-2009,23,2508.673,Regular Air,417.465,125.99,Gary Zandusky,Home Office,Technology
+5284,07-08-2011,7,59.38,Regular Air,-3.0475,8.69,Annie Cyprus,Home Office,Office Supplies
+5316,01-30-2009,42,1285.37,Regular Air,514.07,31.78,Clay Rozendal,Corporate,Technology
+5317,09-08-2009,38,212.57,Express Air,9.486,5.34,Christopher Martinez,Small Business,Office Supplies
+5317,09-08-2009,10,1469.48,Delivery Truck,-263.65,140.98,Christopher Martinez,Small Business,Furniture
+5317,09-08-2009,25,4279.24,Regular Air,890.181,205.99,Christopher Martinez,Small Business,Technology
+5318,04-03-2010,8,1042.25,Regular Air,195.16,131.12,Matt Collins,Consumer,Office Supplies
+5318,04-03-2010,29,5010.7415,Express Air,1196.37,200.99,Matt Collins,Consumer,Technology
+5346,12-25-2010,34,2932.99,Regular Air,-1448.83,90.98,Khloe Miller,Home Office,Furniture
+5346,12-25-2010,45,9194.8,Delivery Truck,-1760.571,218.75,Khloe Miller,Home Office,Furniture
+5346,12-25-2010,17,2285.12,Delivery Truck,-455.8,140.98,Khloe Miller,Home Office,Furniture
+5347,02-21-2011,7,525.555,Regular Air,-60.665,85.99,Kelly Williams,Corporate,Technology
+5347,02-21-2011,39,276.029,Regular Air,-108.185,7.99,Kelly Williams,Corporate,Technology
+5347,02-21-2011,1,187.204,Regular Air,-796.763,205.99,Kelly Williams,Corporate,Technology
+5350,10-09-2010,39,434.73,Regular Air,-12.2,11.33,Carl Weiss,Consumer,Office Supplies
+5350,10-09-2010,50,7017.42,Regular Air,595.2,140.85,Carl Weiss,Consumer,Office Supplies
+5378,10-24-2012,6,54.28,Express Air,-11.98,6.24,Christine Abelman,Corporate,Furniture
+5381,01-28-2010,47,4888.14,Regular Air,1545.09,107.53,Edward Nazzal,Home Office,Furniture
+5381,01-28-2010,27,63.87,Regular Air,-149.93,2.18,Edward Nazzal,Home Office,Office Supplies
+5382,01-12-2012,30,260.12,Regular Air,36.54,8.98,Michelle Tran,Consumer,Furniture
+5408,07-20-2012,20,88.82,Regular Air,38.35,4.13,Bobby Elias,Small Business,Office Supplies
+5408,07-20-2012,11,2392.23,Regular Air,1216.74,209.84,Bobby Elias,Small Business,Furniture
+5409,01-08-2012,11,48.91,Regular Air,-7.04,3.98,Don Jones,Corporate,Office Supplies
+5414,03-24-2010,14,284.62,Express Air,-27.08,20.98,Michelle Tran,Corporate,Office Supplies
+5441,07-20-2009,34,226.83,Regular Air,-92.05,6.48,Brendan Sweed,Consumer,Office Supplies
+5441,07-20-2009,16,278.92,Regular Air,6.11,17.15,Brendan Sweed,Consumer,Office Supplies
+5444,03-17-2011,2,885.94,Regular Air,-2024.079,449.99,Frank Carlisle,Small Business,Technology
+5445,07-25-2010,4,29.42,Express Air,14.43,3.69,Michael Dominguez,Home Office,Office Supplies
+5445,07-25-2010,9,46.48,Regular Air,-1.82,4.63,Michael Dominguez,Home Office,Office Supplies
+5446,06-20-2009,42,433.68,Regular Air,44.1,10.98,Guy Armstrong,Corporate,Office Supplies
+5472,04-10-2010,32,216.08,Regular Air,-84.33,6.48,Karl Brown,Corporate,Office Supplies
+5472,04-10-2010,27,339.03,Regular Air,-24.44,13.48,Karl Brown,Corporate,Office Supplies
+5472,04-10-2010,12,1098.149,Regular Air,-182.974,115.99,Karl Brown,Corporate,Technology
+5473,03-24-2012,42,355.69,Regular Air,-149.46,8.74,Shahid Hopkins,Small Business,Office Supplies
+5504,01-05-2010,6,49.55,Express Air,-20.33,5.78,Anna Andreadi,Small Business,Office Supplies
+5504,01-05-2010,15,606.56,Regular Air,20.232,45.99,Anna Andreadi,Small Business,Technology
+5506,11-07-2010,22,129.62,Regular Air,4.41,5.88,Beth Thompson,Corporate,Office Supplies
+5509,04-07-2009,11,68.46,Regular Air,-22.48,5.58,Ashley Jarboe,Home Office,Office Supplies
+5509,04-07-2009,21,885.23,Regular Air,78.98,40.89,Ashley Jarboe,Home Office,Furniture
+5510,01-07-2010,12,116.38,Regular Air,29.68,9.68,Denise Leinenbach,Home Office,Office Supplies
+5511,11-28-2009,46,129.44,Express Air,-5.54,2.58,Art Ferguson,Corporate,Office Supplies
+5511,11-28-2009,32,1829.387,Regular Air,482.445,65.99,Art Ferguson,Corporate,Technology
+5538,12-24-2010,43,1281.28,Regular Air,415.854,29.17,Julia Dunbar,Consumer,Office Supplies
+5538,12-24-2010,13,1940.31,Delivery Truck,-668.187,146.05,Julia Dunbar,Consumer,Furniture
+5538,12-24-2010,4,430.848,Regular Air,-492.767,125.99,Julia Dunbar,Consumer,Technology
+5543,09-24-2010,15,703.54,Regular Air,138.46,48.58,Fred Chung,Corporate,Office Supplies
+5543,09-24-2010,6,65.93,Regular Air,11.06,10.31,Fred Chung,Corporate,Office Supplies
+5543,09-24-2010,27,67.3,Regular Air,-115.38,2.18,Fred Chung,Corporate,Office Supplies
+5568,06-06-2011,8,120.22,Regular Air,52.69,14.34,Randy Ferguson,Home Office,Furniture
+5569,04-29-2010,12,118.97,Regular Air,-0.0599999999999952,9.65,Frank Price,Corporate,Furniture
+5572,07-16-2009,37,288.55,Regular Air,-133.7,7.37,Anna Gayman,Corporate,Technology
+5575,07-23-2011,41,254.69,Regular Air,-269.37,5.98,Rick Hansen,Corporate,Office Supplies
+5601,01-05-2012,10,120.53,Regular Air,49.26,12.22,Gary Hansen,Consumer,Furniture
+5607,12-31-2011,8,61.8715,Regular Air,-50.325,7.99,Michelle Lonsdale,Home Office,Technology
+5635,08-15-2012,17,198.78,Regular Air,-28.3475,11.5,Nick Radford,Corporate,Office Supplies
+5635,08-15-2012,50,281.58,Regular Air,-161.56,5.77,Nick Radford,Corporate,Furniture
+5636,02-15-2011,23,138.17,Regular Air,-1.09,5.85,Dennis Kane,Small Business,Office Supplies
+5639,06-01-2009,31,501.38,Regular Air,-71.95,15.31,Raymond Fair,Small Business,Office Supplies
+5696,05-03-2011,4,2206.17,Regular Air,251.43,525.98,Theresa Swint,Consumer,Office Supplies
+5696,05-03-2011,40,621.12,Regular Air,190.5275,16.51,Theresa Swint,Consumer,Office Supplies
+5696,05-03-2011,31,175.92,Regular Air,-93.41,5.98,Theresa Swint,Consumer,Technology
+5697,10-04-2012,31,371.68,Regular Air,-13.32,11.29,Max Jones,Home Office,Office Supplies
+5698,05-20-2009,15,297.05,Regular Air,-16.89,20.48,Kristina Nunn,Consumer,Office Supplies
+5698,05-20-2009,7,108.26,Regular Air,25.51,15.67,Kristina Nunn,Consumer,Office Supplies
+5699,07-29-2012,2,9.25,Regular Air,-4.21,4.13,Sean Miller,Small Business,Office Supplies
+5699,07-29-2012,41,573.89,Express Air,-121.44,14.98,Sean Miller,Small Business,Office Supplies
+5702,09-06-2010,20,2039.39,Regular Air,199.73,99.99,Grant Thornton,Corporate,Technology
+5703,05-15-2010,29,357.96,Regular Air,10.44,12.28,Joni Blumstein,Consumer,Office Supplies
+5735,12-10-2009,10,2665.64,Delivery Truck,-107.49,280.98,Art Foster,Home Office,Furniture
+5760,05-24-2009,34,5261.73,Delivery Truck,650.3,150.98,Nancy Lomonaco,Home Office,Furniture
+5764,10-02-2010,23,193.79,Regular Air,-117.162,8.04,Daniel Lacy,Small Business,Office Supplies
+5765,12-14-2009,23,849.46,Regular Air,9.06,35.44,Jonathan Doherty,Corporate,Office Supplies
+5767,04-28-2012,36,163.54,Express Air,-95.059,4.13,Jessica Myrick,Small Business,Office Supplies
+5767,04-28-2012,31,2390.54,Regular Air,756.1,82.99,Jessica Myrick,Small Business,Technology
+5799,08-02-2011,34,9626.86,Delivery Truck,1882.2,294.62,Jack O'Briant,Small Business,Office Supplies
+5828,03-05-2009,21,6005.21,Delivery Truck,-450.7,296.18,Christina DeMoss,Home Office,Furniture
+5830,03-24-2010,49,2012.14,Regular Air,241.74,40.97,Shirley Jackson,Corporate,Furniture
+5856,11-05-2009,42,10307.01,Delivery Truck,3025.59,230.98,Christopher Martinez,Small Business,Furniture
+5858,07-13-2012,48,2531.66,Regular Air,354.74,50.98,Sibella Parks,Small Business,Office Supplies
+5858,07-13-2012,29,5382.3105,Regular Air,1419.048,205.99,Sibella Parks,Small Business,Technology
+5860,02-19-2012,12,56.73,Regular Air,8.33,4.84,Annie Thurman,Consumer,Office Supplies
+5863,11-21-2010,40,933.21,Regular Air,207.18,22.98,Guy Thornton,Corporate,Furniture
+5890,11-03-2012,42,813.535,Express Air,435.951,20.99,David Philippe,Consumer,Technology
+5891,12-28-2012,2,44.45,Regular Air,-17.457,20.98,Art Foster,Home Office,Office Supplies
+5894,08-12-2009,7,384.33,Regular Air,87.6775,58.1,Ann Chong,Corporate,Office Supplies
+5894,08-12-2009,3,239.03,Regular Air,-68.22,80.48,Ann Chong,Corporate,Office Supplies
+5920,11-19-2009,4,582.59,Regular Air,-121.75,155.06,Nat Gilpin,Consumer,Office Supplies
+5921,04-06-2009,27,384.74,Express Air,2.69,13.43,Maurice Satty,Corporate,Office Supplies
+5925,11-12-2011,44,3922.42,Regular Air,-354.9,92.23,Joy Bell,Home Office,Furniture
+5925,11-12-2011,25,1733.3625,Regular Air,-267.014,85.99,Joy Bell,Home Office,Technology
+5954,12-02-2012,32,18316.3,Delivery Truck,4569.06,596.98,Ken Heidel,Corporate,Technology
+5957,12-26-2010,15,68.32,Regular Air,-66.72,4.28,Ionia McGrath,Small Business,Office Supplies
+5957,12-26-2010,3,536.38,Delivery Truck,-258.8,150.98,Ionia McGrath,Small Business,Furniture
+5957,12-26-2010,23,391.8755,Regular Air,-38.016,20.99,Ionia McGrath,Small Business,Technology
+5958,09-15-2011,3,2036.97,Regular Air,-2397.44,699.99,Giulietta Dortch,Small Business,Technology
+5958,09-15-2011,21,2629.664,Delivery Truck,27.74,159.31,Giulietta Dortch,Small Business,Furniture
+5984,06-17-2009,37,394.62,Regular Air,-31.39,10.89,Eric Barreto,Consumer,Office Supplies
+5984,06-17-2009,42,464.64,Regular Air,14.48,10.64,Eric Barreto,Consumer,Furniture
+5984,06-17-2009,11,96.68,Regular Air,22.25,7.96,Eric Barreto,Consumer,Furniture
+5986,04-21-2012,48,5556.18,Regular Air,1638.48,120.98,Filia McAdams,Small Business,Office Supplies
+5986,04-21-2012,20,1021.55,Delivery Truck,64.81,50.98,Filia McAdams,Small Business,Furniture
+5986,04-21-2012,41,205.24,Regular Air,-148.77,4.89,Filia McAdams,Small Business,Technology
+5988,11-21-2010,40,19109.61,Express Air,-379.29,499.99,Sanjit Chand,Home Office,Technology
+5989,10-14-2011,6,155.48,Regular Air,-6.64,25.98,Ellis Ballard,Corporate,Office Supplies
+5989,10-14-2011,21,56.77,Regular Air,-3.2,2.78,Ellis Ballard,Corporate,Office Supplies
+5990,04-07-2010,9,63.91,Regular Air,-27.78,6.48,Eric Murdock,Home Office,Office Supplies
+6016,01-20-2012,19,208.28,Regular Air,3.63,11.48,Skye Norling,Home Office,Office Supplies
+6018,08-18-2012,39,206.09,Regular Air,36.04,5.08,Toby Grace,Home Office,Furniture
+6018,08-18-2012,2,124.25,Regular Air,-55.78,55.98,Toby Grace,Home Office,Office Supplies
+6020,09-21-2009,23,66.09,Regular Air,13.71,2.88,Arianne Irving,Corporate,Office Supplies
+6050,03-28-2010,3,261.94,Delivery Truck,-219.7794,80.97,Phillip Flathmann,Small Business,Technology
+6050,03-28-2010,47,9574.82,Regular Air,-505.984479,209.37,Phillip Flathmann,Small Business,Furniture
+6053,12-11-2010,4,16.08,Regular Air,-3.749,3.8,Maureen Fritzler,Corporate,Office Supplies
+6054,09-08-2011,6,27.32,Express Air,-5.87,2.08,Aleksandra Gannaway,Corporate,Furniture
+6054,09-08-2011,43,643.31,Express Air,-231.34,15.42,Aleksandra Gannaway,Corporate,Office Supplies
+6086,09-22-2011,48,1734.72,Regular Air,57.89,35.44,Michael Kennedy,Corporate,Office Supplies
+6112,08-23-2009,10,1597.37,Delivery Truck,-533.69,146.05,Arianne Irving,Corporate,Furniture
+6112,08-23-2009,31,1753.958,Regular Air,382.392,65.99,Arianne Irving,Corporate,Technology
+6115,09-11-2010,25,409.08,Regular Air,78.86,17.78,Matt Collins,Consumer,Furniture
+6116,03-20-2009,7,150.77,Regular Air,-72.23,19.98,Barry Weirich,Corporate,Technology
+6116,03-20-2009,6,9620.82,Regular Air,-1759.58,1637.53,Barry Weirich,Corporate,Office Supplies
+6117,12-21-2012,7,157.03,Regular Air,13.21,22.23,Annie Thurman,Home Office,Furniture
+6144,06-21-2009,24,67.35,Regular Air,22.63,2.88,Ralph Kennedy,Corporate,Office Supplies
+6144,06-21-2009,4,1472.31,Delivery Truck,-223.587,348.21,Ralph Kennedy,Corporate,Furniture
+6148,12-24-2011,50,510.56,Regular Air,-29.4,10.64,Mathew Reese,Small Business,Furniture
+6148,12-24-2011,18,389.52,Express Air,116.37,20.28,Mathew Reese,Small Business,Furniture
+6150,10-01-2012,38,191.14,Regular Air,82.65,4.98,Mitch Gastineau,Small Business,Office Supplies
+6179,06-02-2009,50,477.53,Regular Air,197.76,9.78,Elpida Rittenbach,Consumer,Office Supplies
+6179,06-02-2009,15,2690.7515,Regular Air,234.612,200.99,Elpida Rittenbach,Consumer,Technology
+6180,04-11-2011,44,2443.342,Regular Air,590.319,65.99,Sung Chung,Home Office,Technology
+6182,07-21-2012,40,255.48,Regular Air,-116.79,6.48,Grant Carroll,Corporate,Office Supplies
+6182,07-21-2012,18,130.32,Express Air,-67.28,6.48,Grant Carroll,Corporate,Office Supplies
+6183,06-15-2012,41,1991.93,Regular Air,951.5,48.94,Ionia McGrath,Small Business,Office Supplies
+6211,11-23-2009,28,67.72,Regular Air,-142.669,2.16,Nona Balk,Corporate,Office Supplies
+6211,11-23-2009,3,68.64,Regular Air,-38.93,21.38,Nona Balk,Corporate,Office Supplies
+6241,12-29-2009,24,133.94,Express Air,45,5.84,Henry Goldwyn,Small Business,Office Supplies
+6241,12-29-2009,29,5433.0895,Regular Air,1365.282,205.99,Henry Goldwyn,Small Business,Technology
+6246,10-21-2009,13,52.38,Regular Air,11.72,3.93,Philip Brown,Home Office,Office Supplies
+6272,02-27-2010,33,497.4,Regular Air,37.9,14.98,Randy Ferguson,Corporate,Furniture
+6272,02-27-2010,48,4965.384,Delivery Truck,-175.46,124.49,Randy Ferguson,Corporate,Furniture
+6272,02-27-2010,8,358.4195,Express Air,-275.055,55.99,Randy Ferguson,Corporate,Technology
+6272,02-27-2010,31,3232.68,Regular Air,875.45,105.98,Randy Ferguson,Corporate,Furniture
+6274,07-14-2011,22,46.36,Express Air,-56.73,1.74,Eugene Moren,Home Office,Furniture
+6279,01-29-2010,49,3283.74,Regular Air,723.333,67.28,Katrina Willman,Consumer,Office Supplies
+6304,08-11-2011,30,199.11,Regular Air,-83.33,6.48,Adam Shillingsburg,Corporate,Office Supplies
+6309,06-09-2010,10,29.79,Regular Air,3.76,2.88,Art Miller,Corporate,Office Supplies
+6310,05-03-2009,27,216.95,Regular Air,-88.82,8.09,Katharine Harms,Consumer,Furniture
+6311,02-10-2010,18,1297.4485,Regular Air,4.21200000000001,85.99,Anna Gayman,Corporate,Technology
+6336,08-28-2011,43,320.26,Express Air,-84.134,7.1,Joseph Holt,Home Office,Office Supplies
+6337,08-31-2011,48,3397.72,Regular Air,-912.08,70.71,Justin Knight,Corporate,Furniture
+6337,08-31-2011,1,449.42,Delivery Truck,-261.612,376.13,Justin Knight,Corporate,Furniture
+6339,12-11-2012,20,303.69,Regular Air,-50.84,14.98,Jonathan Doherty,Corporate,Office Supplies
+6368,02-22-2009,40,19100.45,Delivery Truck,6839.95,442.14,Anthony O'Donnell,Corporate,Technology
+6369,12-19-2009,30,14922.16,Delivery Truck,545.69745,550.98,Denise Leinenbach,Corporate,Furniture
+6373,01-23-2012,1,62.77,Regular Air,-36.84,60.97,Denise Leinenbach,Home Office,Office Supplies
+6374,08-07-2011,29,857.42,Express Air,51.18,31.11,Ricardo Emerson,Corporate,Technology
+6374,08-07-2011,1,2.24,Regular Air,-1.97,1.48,Ricardo Emerson,Corporate,Office Supplies
+6402,04-23-2011,35,373.33,Regular Air,-22.18,10.23,Nathan Mautz,Corporate,Office Supplies
+6403,02-11-2011,41,17874.26,Regular Air,6247.95,419.19,John Lucas,Small Business,Office Supplies
+6406,08-14-2009,43,92.63,Regular Air,-70.8,2.08,Mick Crebagga,Home Office,Office Supplies
+6432,11-10-2011,30,311.08,Regular Air,-38.45,10.89,Lena Creighton,Corporate,Office Supplies
+6433,11-22-2011,41,159.26,Regular Air,73.89,3.69,Matt Collister,Home Office,Office Supplies
+6434,06-07-2009,13,59.58,Regular Air,14.49,4.76,Rob Haberlin,Corporate,Office Supplies
+6438,05-16-2010,7,75.72,Regular Air,20.29,9.77,Anna Haberlin,Corporate,Furniture
+6438,05-16-2010,38,225.21,Regular Air,-66.16,5.98,Anna Haberlin,Corporate,Office Supplies
+6464,05-28-2009,1,57.84,Regular Air,-41.77,60.97,Ralph Arnett,Consumer,Office Supplies
+6464,05-28-2009,42,3991.99,Regular Air,-1014.11,90.98,Ralph Arnett,Consumer,Furniture
+6465,08-12-2011,36,240.14,Express Air,57.78,6.88,Alan Shonely,Small Business,Office Supplies
+6498,03-17-2009,38,336.85,Express Air,-40.76,8.12,Julie Prescott,Home Office,Technology
+6500,10-12-2012,15,448.07,Regular Air,-141.02,30.42,Tony Sayre,Home Office,Technology
+6500,10-12-2012,20,38.29,Regular Air,-16.15,1.95,Tony Sayre,Home Office,Office Supplies
+6501,01-13-2012,35,236.99,Regular Air,-95.79,6.48,Arianne Irving,Corporate,Office Supplies
+6501,01-13-2012,46,4617.336,Regular Air,978.354,125.99,Arianne Irving,Corporate,Technology
+6502,08-20-2011,16,116.11,Express Air,-36.46,7.64,Max Jones,Home Office,Office Supplies
+6502,08-20-2011,30,306.92,Regular Air,13.46,9.99,Max Jones,Home Office,Office Supplies
+6529,11-26-2012,35,89.71,Regular Air,20.71,2.62,Cynthia Arntzen,Small Business,Office Supplies
+6531,07-17-2010,42,188.23,Regular Air,-145.1,4.37,Jill Fjeld,Home Office,Office Supplies
+6531,07-17-2010,28,541.95,Regular Air,143.04,19.84,Jill Fjeld,Home Office,Office Supplies
+6535,06-12-2012,11,312.36,Express Air,-19.33,28.15,Adrian Hane,Corporate,Office Supplies
+6560,01-04-2011,20,169.18,Regular Air,-18.73,8.67,Max Ludwig,Corporate,Office Supplies
+6560,01-04-2011,37,8252.392,Delivery Truck,1853.19,280.98,Max Ludwig,Corporate,Furniture
+6562,12-20-2009,12,17274.87,Delivery Truck,2028.12,1360.14,Brendan Sweed,Consumer,Technology
+6564,01-21-2011,26,448.23,Regular Air,110.6,15.98,Anne McFarland,Consumer,Technology
+6566,05-21-2011,21,748.83,Regular Air,250.01,33.98,Kean Thornton,Corporate,Technology
+6592,12-01-2009,29,194.29,Regular Air,-177.17,6.84,Tamara Chand,Consumer,Office Supplies
+6592,12-01-2009,33,1621.1,Express Air,-971.36,48.91,Tamara Chand,Consumer,Office Supplies
+6596,07-21-2011,36,18028.07,Delivery Truck,8157.7,500.98,Chad Sievert,Corporate,Technology
+6625,08-15-2010,23,21062.91,Delivery Truck,5713.53,880.98,Roy Skaria,Corporate,Furniture
+6656,05-15-2009,45,1802,Regular Air,508.963,39.06,Dennis Bolton,Small Business,Office Supplies
+6656,05-15-2009,50,1832.22,Regular Air,805.4345,37.7,Dennis Bolton,Small Business,Office Supplies
+6661,04-16-2010,47,19224.92,Delivery Truck,6635.15,449.99,Clytie Kelty,Small Business,Technology
+6661,04-16-2010,39,778.62,Regular Air,247.24,19.23,Clytie Kelty,Small Business,Furniture
+6693,05-24-2012,16,40.85,Regular Air,6.46,2.62,Astrea Jones,Corporate,Office Supplies
+6695,06-27-2012,49,295.24,Express Air,-279.933,5.81,Natalie Webber,Corporate,Office Supplies
+6720,09-09-2010,31,164.62,Regular Air,-93.7135,5.18,Patrick Jones,Home Office,Office Supplies
+6720,09-09-2010,36,4225.77,Delivery Truck,-1393.69,120.98,Patrick Jones,Home Office,Furniture
+6720,09-09-2010,8,53.89,Regular Air,17.63,6.3,Patrick Jones,Home Office,Office Supplies
+6727,08-29-2009,12,33.43,Regular Air,8.47,2.89,Stuart Van,Consumer,Office Supplies
+6753,09-26-2010,7,53.14,Regular Air,14.57,6.64,Robert Barroso,Small Business,Furniture
+6754,08-11-2011,13,2388.636,Regular Air,190.998,205.99,Bill Overfelt,Corporate,Technology
+6755,05-01-2011,20,156.47,Regular Air,-39.2265,7.1,Kelly Lampkin,Home Office,Office Supplies
+6757,02-01-2012,27,869.78,Regular Air,43.36,34.76,Brooke Gillingham,Small Business,Office Supplies
+6757,02-01-2012,11,2503.008,Delivery Truck,-298.62,286.85,Brooke Gillingham,Small Business,Furniture
+6785,05-06-2012,7,181.32,Regular Air,80.32,25.38,Nathan Mautz,Home Office,Furniture
+6788,08-04-2011,41,127.84,Express Air,12.69,2.94,Bobby Elias,Small Business,Office Supplies
+6788,08-04-2011,6,11.15,Regular Air,-2.62,1.81,Bobby Elias,Small Business,Office Supplies
+6791,02-01-2011,14,730.33,Express Air,110.77,51.98,Lindsay Castell,Small Business,Technology
+6823,07-21-2009,50,1262.72,Regular Air,490.28,24.95,Todd Boyes,Small Business,Office Supplies
+6823,07-21-2009,31,524.19,Regular Air,-135.46,15.98,Todd Boyes,Small Business,Technology
+6848,09-13-2010,22,116.84,Regular Air,-125.442,5.4,Kelly Collister,Consumer,Office Supplies
+6850,02-11-2010,8,81.56,Regular Air,-7.23,10.01,Chuck Clark,Corporate,Technology
+6850,02-11-2010,41,2088.5,Regular Air,675.07,51.98,Chuck Clark,Corporate,Technology
+6850,02-11-2010,34,2126.72,Regular Air,150.04,64.98,Chuck Clark,Corporate,Office Supplies
+6850,02-11-2010,26,3753.72,Delivery Truck,-556.25,138.75,Chuck Clark,Corporate,Furniture
+6854,01-06-2009,1,22.13,Express Air,-2.392,7.68,Victor Price,Consumer,Office Supplies
+6854,01-06-2009,19,129.84,Express Air,2.39,6.64,Victor Price,Consumer,Furniture
+6880,05-25-2009,5,235.49,Regular Air,21.78,47.9,Peter Buhler,Consumer,Office Supplies
+6884,01-15-2009,41,217,Regular Air,-61.21,4.98,Skye Norling,Home Office,Office Supplies
+6884,01-15-2009,47,296.13,Regular Air,119.09,6.35,Skye Norling,Home Office,Office Supplies
+6885,06-19-2012,4,481.27,Delivery Truck,-181.27,113.98,Damala Kotsonis,Corporate,Furniture
+6885,06-19-2012,40,879.54,Regular Air,166.93,23.99,Damala Kotsonis,Corporate,Technology
+6886,01-19-2012,46,8177.07,Regular Air,2385.3,178.47,Maureen Gastineau,Consumer,Office Supplies
+6912,12-10-2011,14,294.52,Regular Air,15.34,21.78,Alan Shonely,Small Business,Office Supplies
+6916,06-04-2010,40,436.17,Express Air,-141.27,10.9,Andrew Gjertsen,Consumer,Office Supplies
+6918,07-01-2011,38,1559.5,Regular Air,515.83,39.48,Erin Ashbrook,Consumer,Technology
+6947,07-19-2011,9,520.49,Regular Air,-51.01,51.65,Logan Currie,Small Business,Furniture
+6948,12-09-2010,15,1143.88,Regular Air,-88.7,73.98,Phillip Breyer,Corporate,Technology
+6950,03-26-2012,4,187.3995,Regular Air,-225.302,55.99,Dianna Arnett,Home Office,Technology
+6978,12-09-2010,47,371.95,Regular Air,-87.4,8.12,Art Foster,Home Office,Technology
+6979,02-27-2009,28,334.89,Regular Air,-1.4355,11.99,Keith Dawkins,Home Office,Technology
+6980,02-18-2010,18,136.29,Regular Air,-77.28,7.3,Ralph Knight,Consumer,Office Supplies
+6982,11-16-2011,32,1311.25,Express Air,407.44,39.48,Dorothy Wardle,Corporate,Technology
+6982,11-16-2011,5,544.41,Delivery Truck,-338.27,100.98,Dorothy Wardle,Corporate,Furniture
+6982,11-16-2011,41,844.09,Regular Air,52.56,19.98,Dorothy Wardle,Corporate,Furniture
+7015,10-12-2010,47,1880.8,Regular Air,775.88,40.98,Matt Abelman,Home Office,Technology
+7015,10-12-2010,42,7143.927,Express Air,2374.731,195.99,Matt Abelman,Home Office,Technology
+7042,01-08-2012,4,1187.864,Delivery Truck,-347.16,376.13,Dean Katz,Home Office,Furniture
+7043,01-25-2009,4,11.08,Regular Air,-8.93,1.74,Giulietta Dortch,Corporate,Furniture
+7072,02-04-2012,29,258.61,Regular Air,-15.962,8.85,Maureen Fritzler,Corporate,Office Supplies
+7075,10-10-2011,15,241.89,Regular Air,-83.3,15.42,Shirley Jackson,Corporate,Office Supplies
+7075,10-10-2011,43,83.34,Regular Air,-93.18,1.86,Shirley Jackson,Corporate,Office Supplies
+7077,12-21-2011,14,304.52,Regular Air,25.34,21.78,Georgia Rosenberg,Consumer,Office Supplies
+7078,04-11-2010,9,112.12,Regular Air,-8.45,11.33,Ricardo Block,Corporate,Office Supplies
+7078,04-11-2010,11,49.58,Express Air,-47.0235,3.36,Ricardo Block,Corporate,Office Supplies
+7078,04-11-2010,16,1939.65,Delivery Truck,-885.73,122.99,Ricardo Block,Corporate,Furniture
+7078,04-11-2010,29,465.52,Express Air,65.35,14.98,Ricardo Block,Corporate,Furniture
+7079,02-08-2010,44,12296.49,Delivery Truck,-416.7,280.98,Brenda Bowman,Small Business,Furniture
+7079,02-08-2010,18,128.13,Regular Air,-34.91,6.48,Brenda Bowman,Small Business,Office Supplies
+7105,06-21-2010,17,77.19,Regular Air,-81.35,4.06,Brian Moss,Corporate,Office Supplies
+7106,05-10-2012,8,118.98,Regular Air,-12.765,14.27,Shaun Weien,Home Office,Office Supplies
+7106,05-10-2012,31,4910.09,Regular Air,1669.38,159.99,Shaun Weien,Home Office,Technology
+7106,05-10-2012,36,1058.45,Regular Air,-386.02,27.75,Shaun Weien,Home Office,Office Supplies
+7107,01-04-2012,3,172.04,Regular Air,143.08,54.2,Steve Chapman,Corporate,Furniture
+7107,01-04-2012,3,113.14,Regular Air,-21.23,37.94,Steve Chapman,Corporate,Office Supplies
+7107,01-04-2012,32,1724.82,Regular Air,407.8,55.29,Steve Chapman,Corporate,Office Supplies
+7110,08-07-2011,22,6396.2,Regular Air,1902.24,276.2,Grant Carroll,Corporate,Furniture
+7136,03-22-2009,17,642.9,Regular Air,88.72,39.48,Lena Cacioppo,Home Office,Technology
+7136,03-22-2009,9,47.28,Regular Air,17.05,4.91,Lena Cacioppo,Home Office,Office Supplies
+7142,07-21-2011,36,132.86,Regular Air,57,3.69,Cari Sayre,Corporate,Office Supplies
+7169,03-26-2010,22,446.72,Regular Air,-39,20.28,Lela Donovan,Corporate,Furniture
+7169,03-26-2010,30,1580.6005,Regular Air,303.525,65.99,Lela Donovan,Corporate,Technology
+7171,02-13-2011,28,1703.8505,Regular Air,316.062,65.99,Andy Gerbode,Consumer,Technology
+7171,02-13-2011,17,303.1865,Regular Air,92.592,20.99,Andy Gerbode,Consumer,Technology
+7174,03-10-2012,10,141.92,Regular Air,12.2,13.73,Thomas Thornton,Consumer,Furniture
+7175,02-07-2010,10,748.25,Delivery Truck,-86.99,70.98,Helen Andreada,Corporate,Furniture
+7203,01-08-2009,25,21752.01,Regular Air,9296.348,896.99,Ruben Dartt,Corporate,Office Supplies
+7239,06-29-2011,50,6206.16,Regular Air,1416.27,120.33,Craig Carroll,Small Business,Office Supplies
